@@ -1,0 +1,592 @@
+[INFO ] 2022-03-02 22:43:01.906 [main] ProspectsViewRecordsClass - View record is clicked
+[INFO ] 2022-03-02 22:43:02.069 [main] ProspectsViewRecordsClass - Page title is Prospects
+[INFO ] 2022-03-02 22:43:02.070 [main] ProspectsViewRecordsClass - Page Title is validated
+[INFO ] 2022-03-02 22:43:05.382 [main] ProspectsViewRecordsClass - Add filter link is clicked
+[INFO ] 2022-03-02 22:43:05.445 [main] ProspectsViewRecordsClass - pop up title is Filter
+[INFO ] 2022-03-02 22:43:05.445 [main] ProspectsViewRecordsClass - Pop up Title is validated
+[INFO ] 2022-03-02 22:43:08.773 [main] ProspectsViewRecordsClass - Filter is selected
+[INFO ] 2022-03-02 22:43:12.327 [main] ProspectsViewRecordsClass - Apply filter is clicked
+[INFO ] 2022-03-02 22:43:12.389 [main] ProspectsViewRecordsClass - Showing result is showing up
+[INFO ] 2022-03-02 22:43:15.777 [main] ProspectsViewRecordsClass - Clear all filter is clicked
+[INFO ] 2022-03-02 22:56:18.099 [main] LoginClass - Page title is Verify IDP
+[INFO ] 2022-03-02 22:56:18.105 [main] LoginClass - Page Title is validated
+[INFO ] 2022-03-02 22:56:18.277 [main] LoginClass - username is entered
+[INFO ] 2022-03-02 22:56:18.433 [main] LoginClass - password is entered
+[INFO ] 2022-03-02 22:56:38.165 [main] LoginClass - Sign In button is clicked
+[INFO ] 2022-03-02 22:56:38.208 [main] DashboardClass - Page title is Welcome to Oklahama wesleyan university
+[INFO ] 2022-03-02 22:56:38.209 [main] DashboardClass - Page Title is validated
+[INFO ] 2022-03-02 22:56:43.765 [main] DashboardClass - Add widget is clicked
+[INFO ] 2022-03-02 22:56:47.009 [main] DashboardClass - Widget is selected for adding
+[INFO ] 2022-03-02 22:56:50.271 [main] DashboardClass - Widget is added
+[INFO ] 2022-03-02 22:56:50.537 [main] DashboardClass - Expand icon is clicked
+[INFO ] 2022-03-02 22:56:53.549 [main] DashboardClass - Widget is expended
+[INFO ] 2022-03-02 22:56:53.815 [main] DashboardClass - Collapse icon is clicked
+[INFO ] 2022-03-02 22:56:56.830 [main] DashboardClass - Widget is Collapsed
+[INFO ] 2022-03-02 22:56:57.150 [main] DashboardClass - Widget Delete icon is clicked
+[INFO ] 2022-03-02 22:57:00.324 [main] DashboardClass - Delete Confirmation pop up is showing up
+[INFO ] 2022-03-02 22:57:00.484 [main] DashboardClass - Delete button is clicked
+[INFO ] 2022-03-02 22:57:08.833 [main] PeopleSearchClass - Page title is People Search
+[INFO ] 2022-03-02 22:57:08.833 [main] PeopleSearchClass - Page Title is validated
+[INFO ] 2022-03-02 22:57:50.553 [main] ProspectsViewRecordsClass - Prospect is clicked
+[INFO ] 2022-03-02 22:57:53.786 [main] ProspectsViewRecordsClass - View record is clicked
+[INFO ] 2022-03-02 22:57:54.161 [main] ProspectsViewRecordsClass - Page title is Prospects
+[INFO ] 2022-03-02 22:57:54.161 [main] ProspectsViewRecordsClass - Page Title is validated
+[INFO ] 2022-03-02 22:57:57.342 [main] ProspectsViewRecordsClass - Add filter link is clicked
+[INFO ] 2022-03-02 22:57:57.490 [main] ProspectsViewRecordsClass - pop up title is Filter
+[INFO ] 2022-03-02 22:57:57.490 [main] ProspectsViewRecordsClass - Pop up Title is validated
+[INFO ] 2022-03-02 22:58:00.880 [main] ProspectsViewRecordsClass - Filter is selected
+[INFO ] 2022-03-02 22:58:04.655 [main] ProspectsViewRecordsClass - Apply filter is clicked
+[INFO ] 2022-03-02 22:58:04.739 [main] ProspectsViewRecordsClass - Showing result is showing up
+[INFO ] 2022-03-02 22:58:08.179 [main] ProspectsViewRecordsClass - Clear all filter is clicked
+[INFO ] 2022-03-02 23:09:27.472 [main] LoginClass - Page title is Verify IDP
+[INFO ] 2022-03-02 23:09:27.484 [main] LoginClass - Page Title is validated
+[INFO ] 2022-03-02 23:09:27.762 [main] LoginClass - username is entered
+[INFO ] 2022-03-02 23:09:27.942 [main] LoginClass - password is entered
+[INFO ] 2022-03-02 23:09:46.893 [main] LoginClass - Sign In button is clicked
+[INFO ] 2022-03-02 23:09:46.956 [main] DashboardClass - Page title is Welcome to Oklahama wesleyan university
+[INFO ] 2022-03-02 23:09:46.957 [main] DashboardClass - Page Title is validated
+[INFO ] 2022-03-02 23:09:52.493 [main] DashboardClass - Add widget is clicked
+[INFO ] 2022-03-02 23:09:55.729 [main] DashboardClass - Widget is selected for adding
+[INFO ] 2022-03-02 23:09:59.026 [main] DashboardClass - Widget is added
+[INFO ] 2022-03-02 23:09:59.303 [main] DashboardClass - Expand icon is clicked
+[INFO ] 2022-03-02 23:10:02.308 [main] DashboardClass - Widget is expended
+[INFO ] 2022-03-02 23:10:02.528 [main] DashboardClass - Collapse icon is clicked
+[INFO ] 2022-03-02 23:10:05.540 [main] DashboardClass - Widget is Collapsed
+[INFO ] 2022-03-02 23:10:05.987 [main] DashboardClass - Widget Delete icon is clicked
+[INFO ] 2022-03-02 23:10:09.192 [main] DashboardClass - Delete Confirmation pop up is showing up
+[INFO ] 2022-03-02 23:10:09.405 [main] DashboardClass - Delete button is clicked
+[INFO ] 2022-03-02 23:10:17.885 [main] PeopleSearchClass - Page title is People Search
+[INFO ] 2022-03-02 23:10:17.885 [main] PeopleSearchClass - Page Title is validated
+[INFO ] 2022-03-02 23:10:26.618 [main] PeopleSearchClass - Showing result is showing up
+[INFO ] 2022-03-02 23:10:40.836 [main] ProspectsViewRecordsClass - Prospect is clicked
+[INFO ] 2022-03-02 23:10:44.769 [main] ProspectsViewRecordsClass - View record is clicked
+[INFO ] 2022-03-02 23:10:44.999 [main] ProspectsViewRecordsClass - Page title is Prospects
+[INFO ] 2022-03-02 23:10:45.000 [main] ProspectsViewRecordsClass - Page Title is validated
+[INFO ] 2022-03-02 23:10:48.308 [main] ProspectsViewRecordsClass - Add filter link is clicked
+[INFO ] 2022-03-02 23:10:48.430 [main] ProspectsViewRecordsClass - pop up title is Filter
+[INFO ] 2022-03-02 23:10:48.430 [main] ProspectsViewRecordsClass - Pop up Title is validated
+[INFO ] 2022-03-02 23:10:51.820 [main] ProspectsViewRecordsClass - Filter is selected
+[INFO ] 2022-03-02 23:10:56.120 [main] ProspectsViewRecordsClass - Apply filter is clicked
+[INFO ] 2022-03-02 23:10:56.235 [main] ProspectsViewRecordsClass - Showing result is showing up
+[INFO ] 2022-03-02 23:10:59.792 [main] ProspectsViewRecordsClass - Clear all filter is clicked
+[INFO ] 2022-03-02 23:23:39.858 [main] LoginClass - Page title is Verify IDP
+[INFO ] 2022-03-02 23:23:39.868 [main] LoginClass - Page Title is validated
+[INFO ] 2022-03-02 23:23:40.061 [main] LoginClass - username is entered
+[INFO ] 2022-03-02 23:23:40.196 [main] LoginClass - password is entered
+[INFO ] 2022-03-02 23:23:55.030 [main] LoginClass - Sign In button is clicked
+[INFO ] 2022-03-02 23:23:55.057 [main] DashboardClass - Page title is Welcome to Oklahama wesleyan university
+[INFO ] 2022-03-02 23:23:55.057 [main] DashboardClass - Page Title is validated
+[INFO ] 2022-03-02 23:24:00.478 [main] DashboardClass - Add widget is clicked
+[INFO ] 2022-03-02 23:24:03.702 [main] DashboardClass - Widget is selected for adding
+[INFO ] 2022-03-02 23:24:06.869 [main] DashboardClass - Widget is added
+[INFO ] 2022-03-02 23:24:07.102 [main] DashboardClass - Expand icon is clicked
+[INFO ] 2022-03-02 23:24:10.113 [main] DashboardClass - Widget is expended
+[INFO ] 2022-03-02 23:24:10.325 [main] DashboardClass - Collapse icon is clicked
+[INFO ] 2022-03-02 23:24:13.334 [main] DashboardClass - Widget is Collapsed
+[INFO ] 2022-03-02 23:24:13.755 [main] DashboardClass - Widget Delete icon is clicked
+[INFO ] 2022-03-02 23:24:16.917 [main] DashboardClass - Delete Confirmation pop up is showing up
+[INFO ] 2022-03-02 23:24:17.082 [main] DashboardClass - Delete button is clicked
+[INFO ] 2022-03-02 23:24:25.588 [main] PeopleSearchClass - Page title is People Search
+[INFO ] 2022-03-02 23:24:25.588 [main] PeopleSearchClass - Page Title is validated
+[INFO ] 2022-03-02 23:24:34.437 [main] PeopleSearchClass - Showing result is showing up
+[INFO ] 2022-03-02 23:24:50.806 [main] ProspectsViewRecordsClass - Prospect is clicked
+[INFO ] 2022-03-02 23:24:54.265 [main] ProspectsViewRecordsClass - View record is clicked
+[INFO ] 2022-03-02 23:24:54.357 [main] ProspectsViewRecordsClass - Page title is Prospects
+[INFO ] 2022-03-02 23:24:54.357 [main] ProspectsViewRecordsClass - Page Title is validated
+[INFO ] 2022-03-02 23:24:59.538 [main] ProspectsViewRecordsClass - Add filter link is clicked
+[INFO ] 2022-03-02 23:24:59.617 [main] ProspectsViewRecordsClass - pop up title is Filter
+[INFO ] 2022-03-02 23:24:59.617 [main] ProspectsViewRecordsClass - Pop up Title is validated
+[INFO ] 2022-03-02 23:25:04.877 [main] ProspectsViewRecordsClass - Filter is selected
+[INFO ] 2022-03-02 23:25:10.439 [main] ProspectsViewRecordsClass - Apply filter is clicked
+[INFO ] 2022-03-02 23:25:15.631 [main] ProspectsViewRecordsClass - Clear all filter is clicked
+[INFO ] 2022-03-02 23:28:50.565 [main] LoginClass - Page title is Verify IDP
+[INFO ] 2022-03-02 23:28:50.574 [main] LoginClass - Page Title is validated
+[INFO ] 2022-03-02 23:28:50.843 [main] LoginClass - username is entered
+[INFO ] 2022-03-02 23:28:51.053 [main] LoginClass - password is entered
+[INFO ] 2022-03-02 23:28:52.476 [main] LoginClass - Sign In button is clicked
+[INFO ] 2022-03-02 23:28:52.555 [main] LoginClass - username is cleared
+[INFO ] 2022-03-02 23:28:52.630 [main] LoginClass - password is cleared
+[INFO ] 2022-03-02 23:28:52.650 [main] LoginClass - Page title is Verify IDP
+[INFO ] 2022-03-02 23:28:52.650 [main] LoginClass - Page Title is validated
+[INFO ] 2022-03-02 23:28:52.811 [main] LoginClass - username is entered
+[INFO ] 2022-03-02 23:28:52.936 [main] LoginClass - password is entered
+[INFO ] 2022-03-02 23:28:54.060 [main] DashboardClass - Page title is Verify IDP
+[INFO ] 2022-03-02 23:30:31.759 [main] LoginClass - Page title is Verify IDP
+[INFO ] 2022-03-02 23:30:31.766 [main] LoginClass - Page Title is validated
+[INFO ] 2022-03-02 23:30:31.934 [main] LoginClass - username is entered
+[INFO ] 2022-03-02 23:30:32.072 [main] LoginClass - password is entered
+[INFO ] 2022-03-02 23:30:33.556 [main] LoginClass - Sign In button is clicked
+[INFO ] 2022-03-02 23:30:33.648 [main] LoginClass - username is cleared
+[INFO ] 2022-03-02 23:30:33.722 [main] LoginClass - password is cleared
+[INFO ] 2022-03-02 23:30:33.740 [main] LoginClass - Page title is Verify IDP
+[INFO ] 2022-03-02 23:30:33.741 [main] LoginClass - Page Title is validated
+[INFO ] 2022-03-02 23:30:33.891 [main] LoginClass - username is entered
+[INFO ] 2022-03-02 23:30:33.996 [main] LoginClass - password is entered
+[INFO ] 2022-03-02 23:30:35.107 [main] DashboardClass - Page title is Verify IDP
+[INFO ] 2022-03-02 23:32:28.005 [main] LoginClass - Page title is Verify IDP
+[INFO ] 2022-03-02 23:32:28.014 [main] LoginClass - Page Title is validated
+[INFO ] 2022-03-02 23:32:58.589 [main] LoginClass - username is entered
+[INFO ] 2022-03-02 23:33:15.118 [main] LoginClass - password is entered
+[INFO ] 2022-03-02 23:33:30.434 [main] LoginClass - Sign In button is clicked
+[INFO ] 2022-03-02 23:33:49.626 [main] LoginClass - username is cleared
+[INFO ] 2022-03-02 23:33:51.131 [main] LoginClass - password is cleared
+[INFO ] 2022-03-08 22:05:34.731 [main] LoginClass - Page title is Verify IDP
+[INFO ] 2022-03-08 22:05:34.758 [main] LoginClass - Page Title is validated
+[INFO ] 2022-03-08 22:05:35.113 [main] LoginClass - username is entered
+[INFO ] 2022-03-08 22:05:35.386 [main] LoginClass - password is entered
+[INFO ] 2022-03-08 22:05:36.564 [main] LoginClass - Sign In button is clicked
+[INFO ] 2022-03-08 22:05:36.783 [main] LoginClass - username is cleared
+[INFO ] 2022-03-08 22:05:36.876 [main] LoginClass - password is cleared
+[INFO ] 2022-03-08 22:05:36.898 [main] LoginClass - Page title is Verify IDP
+[INFO ] 2022-03-08 22:05:36.900 [main] LoginClass - Page Title is validated
+[INFO ] 2022-03-08 22:05:37.045 [main] LoginClass - username is entered
+[INFO ] 2022-03-08 22:05:37.181 [main] LoginClass - password is entered
+[INFO ] 2022-03-08 22:05:38.351 [main] DashboardClass - Page title is Verify IDP
+[INFO ] 2022-03-08 22:06:27.046 [main] ProspectsViewRecordsClass - Prospect is clicked
+[INFO ] 2022-03-08 22:06:30.320 [main] ProspectsViewRecordsClass - View record is clicked
+[INFO ] 2022-03-08 22:06:30.466 [main] ProspectsViewRecordsClass - Page title is Prospects
+[INFO ] 2022-03-08 22:06:30.466 [main] ProspectsViewRecordsClass - Page Title is validated
+[INFO ] 2022-03-08 22:06:35.893 [main] ProspectsViewRecordsClass - Add filter link is clicked
+[INFO ] 2022-03-08 22:06:35.978 [main] ProspectsViewRecordsClass - pop up title is Filter
+[INFO ] 2022-03-08 22:06:35.978 [main] ProspectsViewRecordsClass - Pop up Title is validated
+[INFO ] 2022-03-08 22:06:41.340 [main] ProspectsViewRecordsClass - Filter is selected
+[INFO ] 2022-03-08 22:06:46.902 [main] ProspectsViewRecordsClass - Apply filter is clicked
+[INFO ] 2022-03-08 22:06:52.782 [main] ProspectsViewRecordsClass - Clear all filter is clicked
+[INFO ] 2022-03-08 22:13:05.904 [main] LoginClass - Page title is Verify IDP
+[INFO ] 2022-03-08 22:13:05.909 [main] LoginClass - Page Title is validated
+[INFO ] 2022-03-08 22:13:06.173 [main] LoginClass - username is entered
+[INFO ] 2022-03-08 22:13:06.451 [main] LoginClass - password is entered
+[INFO ] 2022-03-08 22:13:07.739 [main] LoginClass - Sign In button is clicked
+[INFO ] 2022-03-08 22:13:07.817 [main] LoginClass - username is cleared
+[INFO ] 2022-03-08 22:13:07.908 [main] LoginClass - password is cleared
+[INFO ] 2022-03-08 22:13:07.939 [main] LoginClass - Page title is Verify IDP
+[INFO ] 2022-03-08 22:13:07.939 [main] LoginClass - Page Title is validated
+[INFO ] 2022-03-08 22:13:08.160 [main] LoginClass - username is entered
+[INFO ] 2022-03-08 22:13:08.304 [main] LoginClass - password is entered
+[INFO ] 2022-03-08 22:13:19.476 [main] LoginClass - Sign In button is clicked
+[INFO ] 2022-03-08 22:13:49.600 [main] DashboardClass - Page title is Welcome to Oklahama wesleyan university
+[INFO ] 2022-03-08 22:13:49.601 [main] DashboardClass - Page Title is validated
+[INFO ] 2022-03-08 22:13:55.412 [main] DashboardClass - Add widget is clicked
+[INFO ] 2022-03-08 22:13:58.590 [main] DashboardClass - Widget is selected for adding
+[INFO ] 2022-03-08 22:14:02.050 [main] DashboardClass - Widget is added
+[INFO ] 2022-03-08 22:14:37.536 [main] PeopleSearchClass - Page title is People Search
+[INFO ] 2022-03-08 22:14:37.537 [main] PeopleSearchClass - Page Title is validated
+[INFO ] 2022-03-08 22:14:46.413 [main] PeopleSearchClass - Showing result is showing up
+[INFO ] 2022-03-08 22:15:03.446 [main] ProspectsViewRecordsClass - Prospect is clicked
+[INFO ] 2022-03-08 22:15:06.794 [main] ProspectsViewRecordsClass - View record is clicked
+[INFO ] 2022-03-08 22:15:07.066 [main] ProspectsViewRecordsClass - Page title is Prospects
+[INFO ] 2022-03-08 22:15:07.067 [main] ProspectsViewRecordsClass - Page Title is validated
+[INFO ] 2022-03-08 22:15:12.202 [main] ProspectsViewRecordsClass - Add filter link is clicked
+[INFO ] 2022-03-08 22:15:12.320 [main] ProspectsViewRecordsClass - pop up title is Filter
+[INFO ] 2022-03-08 22:15:12.320 [main] ProspectsViewRecordsClass - Pop up Title is validated
+[INFO ] 2022-03-08 22:15:17.759 [main] ProspectsViewRecordsClass - Filter is selected
+[INFO ] 2022-03-08 22:15:23.282 [main] ProspectsViewRecordsClass - Apply filter is clicked
+[INFO ] 2022-03-08 22:15:28.916 [main] ProspectsViewRecordsClass - Clear all filter is clicked
+[INFO ] 2022-03-08 22:20:43.886 [main] LoginClass - Page title is Verify IDP
+[INFO ] 2022-03-08 22:20:43.895 [main] LoginClass - Page Title is validated
+[INFO ] 2022-03-08 22:20:44.095 [main] LoginClass - username is entered
+[INFO ] 2022-03-08 22:20:44.240 [main] LoginClass - password is entered
+[INFO ] 2022-03-08 22:20:45.450 [main] LoginClass - Sign In button is clicked
+[INFO ] 2022-03-08 22:20:45.518 [main] LoginClass - username is cleared
+[INFO ] 2022-03-08 22:20:45.583 [main] LoginClass - password is cleared
+[INFO ] 2022-03-08 22:20:45.601 [main] LoginClass - Page title is Verify IDP
+[INFO ] 2022-03-08 22:20:45.601 [main] LoginClass - Page Title is validated
+[INFO ] 2022-03-08 22:20:45.729 [main] LoginClass - username is entered
+[INFO ] 2022-03-08 22:20:45.835 [main] LoginClass - password is entered
+[INFO ] 2022-03-08 22:20:53.144 [main] LoginClass - Sign In button is clicked
+[INFO ] 2022-03-08 22:21:23.305 [main] DashboardClass - Page title is Welcome to Oklahama wesleyan university
+[INFO ] 2022-03-08 22:21:23.305 [main] DashboardClass - Page Title is validated
+[INFO ] 2022-03-08 22:21:23.560 [main] DashboardClass - Widget Delete icon is clicked
+[INFO ] 2022-03-08 22:21:26.734 [main] DashboardClass - Delete Confirmation pop up is showing up
+[INFO ] 2022-03-08 22:21:27.033 [main] DashboardClass - Delete button is clicked
+[INFO ] 2022-03-08 22:21:30.209 [main] DashboardClass - Widget Delete icon is clicked
+[INFO ] 2022-03-08 22:21:33.345 [main] DashboardClass - Delete Confirmation pop up is showing up
+[INFO ] 2022-03-08 22:21:33.641 [main] DashboardClass - Delete button is clicked
+[INFO ] 2022-03-08 22:21:36.831 [main] DashboardClass - Widget Delete icon is clicked
+[INFO ] 2022-03-08 22:21:39.927 [main] DashboardClass - Delete Confirmation pop up is showing up
+[INFO ] 2022-03-08 22:21:40.056 [main] DashboardClass - Delete button is clicked
+[INFO ] 2022-03-08 22:22:16.433 [main] ProspectsViewRecordsClass - Prospect is clicked
+[INFO ] 2022-03-08 22:22:19.787 [main] ProspectsViewRecordsClass - View record is clicked
+[INFO ] 2022-03-08 22:22:20.302 [main] ProspectsViewRecordsClass - Page title is Prospects
+[INFO ] 2022-03-08 22:22:20.303 [main] ProspectsViewRecordsClass - Page Title is validated
+[INFO ] 2022-03-08 22:22:25.483 [main] ProspectsViewRecordsClass - Add filter link is clicked
+[INFO ] 2022-03-08 22:22:25.597 [main] ProspectsViewRecordsClass - pop up title is Filter
+[INFO ] 2022-03-08 22:22:25.598 [main] ProspectsViewRecordsClass - Pop up Title is validated
+[INFO ] 2022-03-08 22:22:30.834 [main] ProspectsViewRecordsClass - Filter is selected
+[INFO ] 2022-03-08 22:22:36.527 [main] ProspectsViewRecordsClass - Apply filter is clicked
+[INFO ] 2022-03-08 22:22:42.081 [main] ProspectsViewRecordsClass - Clear all filter is clicked
+[INFO ] 2022-03-08 22:29:41.834 [main] LoginClass - Page title is Verify IDP
+[INFO ] 2022-03-08 22:29:41.845 [main] LoginClass - Page Title is validated
+[INFO ] 2022-03-08 22:29:42.055 [main] LoginClass - username is entered
+[INFO ] 2022-03-08 22:29:42.255 [main] LoginClass - password is entered
+[INFO ] 2022-03-08 22:29:43.973 [main] LoginClass - Sign In button is clicked
+[INFO ] 2022-03-08 22:29:44.063 [main] LoginClass - username is cleared
+[INFO ] 2022-03-08 22:29:44.142 [main] LoginClass - password is cleared
+[INFO ] 2022-03-08 22:29:44.162 [main] LoginClass - Page title is Verify IDP
+[INFO ] 2022-03-08 22:29:44.162 [main] LoginClass - Page Title is validated
+[INFO ] 2022-03-08 22:29:44.301 [main] LoginClass - username is entered
+[INFO ] 2022-03-08 22:29:44.431 [main] LoginClass - password is entered
+[INFO ] 2022-03-08 22:29:53.383 [main] LoginClass - Sign In button is clicked
+[INFO ] 2022-03-08 22:30:23.548 [main] DashboardClass - Page title is Welcome to Oklahama wesleyan university
+[INFO ] 2022-03-08 22:30:23.549 [main] DashboardClass - Page Title is validated
+[INFO ] 2022-03-08 22:30:54.142 [main] DashboardClass - Add widget is clicked
+[INFO ] 2022-03-08 22:30:54.483 [main] DashboardClass - Widget is selected for adding
+[INFO ] 2022-03-08 22:30:54.763 [main] DashboardClass - Widget is added
+[INFO ] 2022-03-08 22:30:55.197 [main] DashboardClass - Expand icon is clicked
+[INFO ] 2022-03-08 22:30:55.198 [main] DashboardClass - Widget is expended
+[INFO ] 2022-03-08 22:30:55.342 [main] DashboardClass - Collapse icon is clicked
+[INFO ] 2022-03-08 22:30:55.343 [main] DashboardClass - Widget is Collapsed
+[INFO ] 2022-03-08 22:31:00.809 [main] PeopleSearchClass - Page title is People Search
+[INFO ] 2022-03-08 22:31:00.810 [main] PeopleSearchClass - Page Title is validated
+[INFO ] 2022-03-08 22:31:09.653 [main] PeopleSearchClass - Showing result is showing up
+[INFO ] 2022-03-08 22:31:23.651 [main] ProspectsViewRecordsClass - Prospect is clicked
+[INFO ] 2022-03-08 22:31:27.239 [main] ProspectsViewRecordsClass - View record is clicked
+[INFO ] 2022-03-08 22:31:27.595 [main] ProspectsViewRecordsClass - Page title is Prospects
+[INFO ] 2022-03-08 22:31:27.595 [main] ProspectsViewRecordsClass - Page Title is validated
+[INFO ] 2022-03-08 22:31:32.739 [main] ProspectsViewRecordsClass - Add filter link is clicked
+[INFO ] 2022-03-08 22:31:32.851 [main] ProspectsViewRecordsClass - pop up title is Filter
+[INFO ] 2022-03-08 22:31:32.852 [main] ProspectsViewRecordsClass - Pop up Title is validated
+[INFO ] 2022-03-08 22:31:38.238 [main] ProspectsViewRecordsClass - Filter is selected
+[INFO ] 2022-03-08 22:31:44.269 [main] ProspectsViewRecordsClass - Apply filter is clicked
+[INFO ] 2022-03-08 22:31:49.631 [main] ProspectsViewRecordsClass - Clear all filter is clicked
+[INFO ] 2022-03-08 22:37:23.693 [main] LoginClass - Page title is Verify IDP
+[INFO ] 2022-03-08 22:37:23.705 [main] LoginClass - Page Title is validated
+[INFO ] 2022-03-08 22:37:23.903 [main] LoginClass - username is entered
+[INFO ] 2022-03-08 22:37:24.111 [main] LoginClass - password is entered
+[INFO ] 2022-03-08 22:37:25.861 [main] LoginClass - Sign In button is clicked
+[INFO ] 2022-03-08 22:37:25.911 [main] LoginClass - Page title is Verify IDP
+[INFO ] 2022-03-08 22:37:25.912 [main] LoginClass - Page Title is validated
+[INFO ] 2022-03-08 22:37:26.161 [main] LoginClass - username is entered
+[INFO ] 2022-03-08 22:37:26.426 [main] LoginClass - password is entered
+[INFO ] 2022-03-08 22:37:41.440 [main] LoginClass - Sign In button is clicked
+[INFO ] 2022-03-08 22:37:41.468 [main] DashboardClass - Page title is Welcome to Oklahama wesleyan university
+[INFO ] 2022-03-08 22:37:41.469 [main] DashboardClass - Page Title is validated
+[INFO ] 2022-03-08 22:37:41.587 [main] DashboardClass - Widget Delete icon is clicked
+[INFO ] 2022-03-08 22:37:41.718 [main] DashboardClass - Delete Confirmation pop up is showing up
+[INFO ] 2022-03-08 22:37:41.851 [main] DashboardClass - Delete button is clicked
+[INFO ] 2022-03-08 22:37:42.164 [main] DashboardClass - Add widget is clicked
+[INFO ] 2022-03-08 22:37:42.510 [main] DashboardClass - Widget is selected for adding
+[INFO ] 2022-03-08 22:37:42.785 [main] DashboardClass - Widget is added
+[INFO ] 2022-03-08 22:37:43.329 [main] DashboardClass - Expand icon is clicked
+[INFO ] 2022-03-08 22:37:43.329 [main] DashboardClass - Widget is expended
+[INFO ] 2022-03-08 22:37:43.442 [main] DashboardClass - Collapse icon is clicked
+[INFO ] 2022-03-08 22:37:43.442 [main] DashboardClass - Widget is Collapsed
+[INFO ] 2022-03-08 22:37:48.707 [main] PeopleSearchClass - Page title is People Search
+[INFO ] 2022-03-08 22:37:48.708 [main] PeopleSearchClass - Page Title is validated
+[INFO ] 2022-03-08 22:37:57.623 [main] PeopleSearchClass - Showing result is showing up
+[INFO ] 2022-03-08 22:38:14.740 [main] ProspectsViewRecordsClass - Prospect is clicked
+[INFO ] 2022-03-08 22:38:18.319 [main] ProspectsViewRecordsClass - View record is clicked
+[INFO ] 2022-03-08 22:38:18.791 [main] ProspectsViewRecordsClass - Page title is Prospects
+[INFO ] 2022-03-08 22:38:18.791 [main] ProspectsViewRecordsClass - Page Title is validated
+[INFO ] 2022-03-08 22:38:24.093 [main] ProspectsViewRecordsClass - Add filter link is clicked
+[INFO ] 2022-03-08 22:38:24.172 [main] ProspectsViewRecordsClass - pop up title is Filter
+[INFO ] 2022-03-08 22:38:24.173 [main] ProspectsViewRecordsClass - Pop up Title is validated
+[INFO ] 2022-03-08 22:38:29.435 [main] ProspectsViewRecordsClass - Filter is selected
+[INFO ] 2022-03-08 22:38:35.428 [main] ProspectsViewRecordsClass - Apply filter is clicked
+[INFO ] 2022-03-08 22:38:40.942 [main] ProspectsViewRecordsClass - Clear all filter is clicked
+[INFO ] 2022-03-08 23:03:37.157 [main] LoginClass - Page title is Verify IDP
+[INFO ] 2022-03-08 23:03:37.168 [main] LoginClass - Page Title is validated
+[INFO ] 2022-03-08 23:03:37.383 [main] LoginClass - username is entered
+[INFO ] 2022-03-08 23:03:37.535 [main] LoginClass - password is entered
+[INFO ] 2022-03-08 23:03:39.162 [main] LoginClass - Sign In button is clicked
+[INFO ] 2022-03-08 23:03:39.188 [main] LoginClass - Page title is Verify IDP
+[INFO ] 2022-03-08 23:03:39.188 [main] LoginClass - Page Title is validated
+[INFO ] 2022-03-08 23:03:39.357 [main] LoginClass - username is entered
+[INFO ] 2022-03-08 23:03:39.497 [main] LoginClass - password is entered
+[INFO ] 2022-03-08 23:03:47.710 [main] LoginClass - Sign In button is clicked
+[INFO ] 2022-03-08 23:03:47.746 [main] DashboardClass - Page title is Welcome to Oklahama wesleyan university
+[INFO ] 2022-03-08 23:03:47.747 [main] DashboardClass - Page Title is validated
+[INFO ] 2022-03-08 23:03:51.774 [main] DashboardClass - Widget Delete icon is clicked
+[INFO ] 2022-03-08 23:03:51.938 [main] DashboardClass - Delete Confirmation pop up is showing up
+[INFO ] 2022-03-08 23:03:52.308 [main] DashboardClass - Delete button is clicked
+[INFO ] 2022-03-08 23:03:52.612 [main] DashboardClass - Add widget is clicked
+[INFO ] 2022-03-08 23:03:55.728 [main] DashboardClass - Widget is selected for adding
+[INFO ] 2022-03-08 23:03:59.031 [main] DashboardClass - Widget is added
+[INFO ] 2022-03-08 23:03:59.309 [main] DashboardClass - Expand icon is clicked
+[INFO ] 2022-03-08 23:04:02.320 [main] DashboardClass - Widget is expended
+[INFO ] 2022-03-08 23:04:02.514 [main] DashboardClass - Collapse icon is clicked
+[INFO ] 2022-03-08 23:04:05.516 [main] DashboardClass - Widget is Collapsed
+[INFO ] 2022-03-08 23:04:10.984 [main] PeopleSearchClass - Page title is People Search
+[INFO ] 2022-03-08 23:04:10.985 [main] PeopleSearchClass - Page Title is validated
+[INFO ] 2022-03-08 23:04:19.872 [main] PeopleSearchClass - Showing result is showing up
+[INFO ] 2022-03-08 23:04:36.646 [main] ProspectsViewRecordsClass - Prospect is clicked
+[INFO ] 2022-03-08 23:04:40.017 [main] ProspectsViewRecordsClass - View record is clicked
+[INFO ] 2022-03-08 23:04:40.074 [main] ProspectsViewRecordsClass - Page title is Prospects
+[INFO ] 2022-03-08 23:04:40.074 [main] ProspectsViewRecordsClass - Page Title is validated
+[INFO ] 2022-03-08 23:04:45.214 [main] ProspectsViewRecordsClass - Add filter link is clicked
+[INFO ] 2022-03-08 23:04:45.320 [main] ProspectsViewRecordsClass - pop up title is Filter
+[INFO ] 2022-03-08 23:04:45.321 [main] ProspectsViewRecordsClass - Pop up Title is validated
+[INFO ] 2022-03-08 23:04:50.874 [main] ProspectsViewRecordsClass - Filter is selected
+[INFO ] 2022-03-08 23:04:57.114 [main] ProspectsViewRecordsClass - Apply filter is clicked
+[INFO ] 2022-03-08 23:05:04.158 [main] ProspectsViewRecordsClass - Clear all filter is clicked
+[INFO ] 2022-03-08 23:05:12.343 [main] ProspectsViewRecordsClass - Customize column pop up is opened successfully.
+[INFO ] 2022-03-08 23:05:18.724 [main] ProspectsViewRecordsClass - Please select at least one column error message is showign up.
+[INFO ] 2022-03-08 23:06:20.079 [main] LoginClass - Page title is Verify IDP
+[INFO ] 2022-03-08 23:06:20.088 [main] LoginClass - Page Title is validated
+[INFO ] 2022-03-08 23:06:20.291 [main] LoginClass - username is entered
+[INFO ] 2022-03-08 23:06:20.599 [main] LoginClass - password is entered
+[INFO ] 2022-03-08 23:06:22.293 [main] LoginClass - Sign In button is clicked
+[INFO ] 2022-03-08 23:06:22.316 [main] LoginClass - Page title is Verify IDP
+[INFO ] 2022-03-08 23:06:22.316 [main] LoginClass - Page Title is validated
+[INFO ] 2022-03-08 23:06:22.510 [main] LoginClass - username is entered
+[INFO ] 2022-03-08 23:06:22.649 [main] LoginClass - password is entered
+[INFO ] 2022-03-08 23:06:32.047 [main] LoginClass - Sign In button is clicked
+[INFO ] 2022-03-08 23:06:32.085 [main] DashboardClass - Page title is Welcome to Oklahama wesleyan university
+[INFO ] 2022-03-08 23:06:32.085 [main] DashboardClass - Page Title is validated
+[INFO ] 2022-03-08 23:06:36.900 [main] DashboardClass - Widget Delete icon is clicked
+[INFO ] 2022-03-08 23:06:37.060 [main] DashboardClass - Delete Confirmation pop up is showing up
+[INFO ] 2022-03-08 23:06:37.243 [main] DashboardClass - Delete button is clicked
+[INFO ] 2022-03-08 23:06:37.526 [main] DashboardClass - Add widget is clicked
+[INFO ] 2022-03-08 23:06:40.866 [main] DashboardClass - Widget is selected for adding
+[INFO ] 2022-03-08 23:06:44.215 [main] DashboardClass - Widget is added
+[INFO ] 2022-03-08 23:06:44.489 [main] DashboardClass - Expand icon is clicked
+[INFO ] 2022-03-08 23:06:47.501 [main] DashboardClass - Widget is expended
+[INFO ] 2022-03-08 23:06:47.697 [main] DashboardClass - Collapse icon is clicked
+[INFO ] 2022-03-08 23:06:50.698 [main] DashboardClass - Widget is Collapsed
+[INFO ] 2022-03-08 23:06:56.265 [main] PeopleSearchClass - Page title is People Search
+[INFO ] 2022-03-08 23:06:56.265 [main] PeopleSearchClass - Page Title is validated
+[INFO ] 2022-03-08 23:07:05.055 [main] PeopleSearchClass - Showing result is showing up
+[INFO ] 2022-03-08 23:07:19.185 [main] ProspectsViewRecordsClass - Prospect is clicked
+[INFO ] 2022-03-08 23:07:23.432 [main] ProspectsViewRecordsClass - View record is clicked
+[INFO ] 2022-03-08 23:07:23.525 [main] ProspectsViewRecordsClass - Page title is Prospects
+[INFO ] 2022-03-08 23:07:23.525 [main] ProspectsViewRecordsClass - Page Title is validated
+[INFO ] 2022-03-08 23:07:28.696 [main] ProspectsViewRecordsClass - Add filter link is clicked
+[INFO ] 2022-03-08 23:07:28.820 [main] ProspectsViewRecordsClass - pop up title is Filter
+[INFO ] 2022-03-08 23:07:28.820 [main] ProspectsViewRecordsClass - Pop up Title is validated
+[INFO ] 2022-03-08 23:07:34.422 [main] ProspectsViewRecordsClass - Filter is selected
+[INFO ] 2022-03-08 23:07:40.913 [main] ProspectsViewRecordsClass - Apply filter is clicked
+[INFO ] 2022-03-08 23:07:48.673 [main] ProspectsViewRecordsClass - Clear all filter is clicked
+[INFO ] 2022-03-08 23:07:56.718 [main] ProspectsViewRecordsClass - Customize column pop up is opened successfully.
+[INFO ] 2022-03-08 23:08:00.196 [main] ProspectsViewRecordsClass - Please select at least one column error message is showign up.
+[INFO ] 2022-03-09 11:44:51.659 [main] LoginClass - Page title is Verify IDP
+[INFO ] 2022-03-09 11:44:51.770 [main] LoginClass - Page Title is validated
+[INFO ] 2022-03-09 11:44:52.046 [main] LoginClass - username is entered
+[INFO ] 2022-03-09 11:44:52.234 [main] LoginClass - password is entered
+[INFO ] 2022-03-09 11:44:55.338 [main] LoginClass - Sign In button is clicked
+[INFO ] 2022-03-09 11:44:55.367 [main] LoginClass - Page title is Verify IDP
+[INFO ] 2022-03-09 11:44:55.367 [main] LoginClass - Page Title is validated
+[INFO ] 2022-03-09 11:44:55.513 [main] LoginClass - username is entered
+[INFO ] 2022-03-09 11:44:55.645 [main] LoginClass - password is entered
+[INFO ] 2022-03-09 11:45:13.790 [main] LoginClass - Sign In button is clicked
+[INFO ] 2022-03-09 11:45:13.853 [main] DashboardClass - Page title is Welcome to Oklahama wesleyan university
+[INFO ] 2022-03-09 11:45:13.854 [main] DashboardClass - Page Title is validated
+[INFO ] 2022-03-09 11:45:17.209 [main] DashboardClass - Widget Delete icon is clicked
+[INFO ] 2022-03-09 11:45:17.362 [main] DashboardClass - Delete Confirmation pop up is showing up
+[INFO ] 2022-03-09 11:45:20.649 [main] DashboardClass - Delete button is clicked
+[INFO ] 2022-03-09 11:45:21.190 [main] DashboardClass - Add widget is clicked
+[INFO ] 2022-03-09 11:45:24.402 [main] DashboardClass - Widget is selected for adding
+[INFO ] 2022-03-09 11:45:27.844 [main] DashboardClass - Widget is added
+[INFO ] 2022-03-09 11:45:28.145 [main] DashboardClass - Expand icon is clicked
+[INFO ] 2022-03-09 11:45:31.154 [main] DashboardClass - Widget is expended
+[INFO ] 2022-03-09 11:45:31.392 [main] DashboardClass - Collapse icon is clicked
+[INFO ] 2022-03-09 11:45:34.402 [main] DashboardClass - Widget is Collapsed
+[INFO ] 2022-03-09 11:45:39.906 [main] PeopleSearchClass - Page title is People Search
+[INFO ] 2022-03-09 11:45:39.906 [main] PeopleSearchClass - Page Title is validated
+[INFO ] 2022-03-09 11:45:48.670 [main] PeopleSearchClass - Showing result is showing up
+[INFO ] 2022-03-09 11:46:02.490 [main] ProspectsViewRecordsClass - Prospect is clicked
+[INFO ] 2022-03-09 11:46:07.512 [main] ProspectsViewRecordsClass - View record is clicked
+[INFO ] 2022-03-09 11:46:10.239 [main] ProspectsViewRecordsClass - Page title is Prospects
+[INFO ] 2022-03-09 11:46:10.240 [main] ProspectsViewRecordsClass - Page Title is validated
+[INFO ] 2022-03-09 11:46:16.208 [main] ProspectsViewRecordsClass - Add filter link is clicked
+[INFO ] 2022-03-09 11:46:16.352 [main] ProspectsViewRecordsClass - pop up title is Filter
+[INFO ] 2022-03-09 11:46:16.352 [main] ProspectsViewRecordsClass - Pop up Title is validated
+[INFO ] 2022-03-09 11:46:21.788 [main] ProspectsViewRecordsClass - Filter is selected
+[INFO ] 2022-03-09 11:46:29.092 [main] ProspectsViewRecordsClass - Apply filter is clicked
+[INFO ] 2022-03-09 11:46:36.908 [main] ProspectsViewRecordsClass - Clear all filter is clicked
+[INFO ] 2022-03-09 11:46:45.361 [main] ProspectsViewRecordsClass - Customize column pop up is opened successfully.
+[INFO ] 2022-03-09 11:46:49.227 [main] ProspectsViewRecordsClass - Please select at least one column error message is showign up.
+[INFO ] 2022-03-22 22:15:08.558 [main] LoginClass - Page title is Verify IDP
+[INFO ] 2022-03-22 22:15:08.578 [main] LoginClass - Page Title is validated
+[INFO ] 2022-03-22 22:15:08.926 [main] LoginClass - username is entered
+[INFO ] 2022-03-22 22:15:09.206 [main] LoginClass - password is entered
+[INFO ] 2022-03-22 22:15:39.357 [main] LoginClass - Page title is Verify IDP
+[INFO ] 2022-03-22 22:15:39.357 [main] LoginClass - Page Title is validated
+[INFO ] 2022-03-22 22:15:39.617 [main] LoginClass - username is entered
+[INFO ] 2022-03-22 22:15:39.795 [main] LoginClass - password is entered
+[INFO ] 2022-03-22 22:16:09.949 [main] DashboardClass - Page title is Verify IDP
+[INFO ] 2022-03-22 22:20:02.632 [main] LoginClass - Page title is Verify IDP
+[INFO ] 2022-03-22 22:20:02.642 [main] LoginClass - Page Title is validated
+[INFO ] 2022-03-22 22:20:02.857 [main] LoginClass - username is entered
+[INFO ] 2022-03-22 22:20:03.061 [main] LoginClass - password is entered
+[INFO ] 2022-03-22 22:20:04.962 [main] LoginClass - Sign In button is clicked
+[INFO ] 2022-03-22 22:20:04.984 [main] LoginClass - Page title is Verify IDP
+[INFO ] 2022-03-22 22:20:04.984 [main] LoginClass - Page Title is validated
+[INFO ] 2022-03-22 22:20:05.211 [main] LoginClass - username is entered
+[INFO ] 2022-03-22 22:20:05.366 [main] LoginClass - password is entered
+[INFO ] 2022-03-22 22:20:06.495 [main] DashboardClass - Page title is Verify IDP
+[INFO ] 2022-03-22 22:25:38.999 [main] LoginClass - Page title is Verify IDP
+[INFO ] 2022-03-22 22:25:39.006 [main] LoginClass - Page Title is validated
+[INFO ] 2022-03-22 22:25:39.187 [main] LoginClass - username is entered
+[INFO ] 2022-03-22 22:25:39.355 [main] LoginClass - password is entered
+[INFO ] 2022-03-22 22:25:41.123 [main] LoginClass - Sign In button is clicked
+[INFO ] 2022-03-22 22:25:41.147 [main] LoginClass - Page title is Verify IDP
+[INFO ] 2022-03-22 22:25:41.148 [main] LoginClass - Page Title is validated
+[INFO ] 2022-03-22 22:25:41.320 [main] LoginClass - username is entered
+[INFO ] 2022-03-22 22:25:41.485 [main] LoginClass - password is entered
+[INFO ] 2022-03-22 22:25:58.067 [main] LoginClass - Sign In button is clicked
+[INFO ] 2022-03-22 22:25:58.110 [main] DashboardClass - Page title is Welcome to Oklahama wesleyan university
+[INFO ] 2022-03-22 22:25:58.110 [main] DashboardClass - Page Title is validated
+[INFO ] 2022-03-22 22:26:09.916 [main] DashboardClass - Widget Delete icon is clicked
+[INFO ] 2022-03-22 22:26:10.094 [main] DashboardClass - Delete Confirmation pop up is showing up
+[INFO ] 2022-03-22 22:26:13.356 [main] DashboardClass - Delete button is clicked
+[INFO ] 2022-03-22 22:26:16.551 [main] DashboardClass - Widget Delete icon is clicked
+[INFO ] 2022-03-22 22:26:16.685 [main] DashboardClass - Delete Confirmation pop up is showing up
+[INFO ] 2022-03-22 22:26:19.908 [main] DashboardClass - Delete button is clicked
+[INFO ] 2022-03-22 22:26:23.089 [main] DashboardClass - Widget Delete icon is clicked
+[INFO ] 2022-03-22 22:26:23.189 [main] DashboardClass - Delete Confirmation pop up is showing up
+[INFO ] 2022-03-22 22:26:26.343 [main] DashboardClass - Delete button is clicked
+[INFO ] 2022-03-22 22:26:26.716 [main] DashboardClass - Add widget is clicked
+[INFO ] 2022-03-22 22:26:29.946 [main] DashboardClass - Widget is selected for adding
+[INFO ] 2022-03-22 22:26:33.442 [main] DashboardClass - Widget is added
+[INFO ] 2022-03-22 22:26:33.681 [main] DashboardClass - Expand icon is clicked
+[INFO ] 2022-03-22 22:26:36.689 [main] DashboardClass - Widget is expended
+[INFO ] 2022-03-22 22:26:36.896 [main] DashboardClass - Collapse icon is clicked
+[INFO ] 2022-03-22 22:26:39.904 [main] DashboardClass - Widget is Collapsed
+[INFO ] 2022-03-22 22:26:45.552 [main] PeopleSearchClass - Page title is People Search
+[INFO ] 2022-03-22 22:26:45.552 [main] PeopleSearchClass - Page Title is validated
+[INFO ] 2022-03-22 22:26:54.286 [main] PeopleSearchClass - Showing result is showing up
+[INFO ] 2022-03-22 22:27:10.861 [main] ProspectsViewRecordsClass - Prospect is clicked
+[INFO ] 2022-03-22 22:27:14.245 [main] ProspectsViewRecordsClass - View record is clicked
+[INFO ] 2022-03-22 22:27:14.309 [main] ProspectsViewRecordsClass - Page title is Prospects
+[INFO ] 2022-03-22 22:27:14.309 [main] ProspectsViewRecordsClass - Page Title is validated
+[INFO ] 2022-03-22 22:27:19.456 [main] ProspectsViewRecordsClass - Add filter link is clicked
+[INFO ] 2022-03-22 22:27:19.563 [main] ProspectsViewRecordsClass - pop up title is Filter
+[INFO ] 2022-03-22 22:27:19.563 [main] ProspectsViewRecordsClass - Pop up Title is validated
+[INFO ] 2022-03-22 22:27:24.771 [main] ProspectsViewRecordsClass - Filter is selected
+[INFO ] 2022-03-22 22:27:30.631 [main] ProspectsViewRecordsClass - Apply filter is clicked
+[INFO ] 2022-03-22 22:27:36.224 [main] ProspectsViewRecordsClass - Clear all filter is clicked
+[INFO ] 2022-03-22 22:27:43.748 [main] ProspectsViewRecordsClass - Customize column pop up is opened successfully.
+[INFO ] 2022-03-22 22:27:48.317 [main] ProspectsViewRecordsClass - Please select at least one column error message is showign up.
+[INFO ] 2022-03-22 22:31:34.671 [main] LoginClass - Page title is Verify IDP
+[INFO ] 2022-03-22 22:31:34.680 [main] LoginClass - Page Title is validated
+[INFO ] 2022-03-22 22:31:34.851 [main] LoginClass - username is entered
+[INFO ] 2022-03-22 22:31:34.998 [main] LoginClass - password is entered
+[INFO ] 2022-03-22 22:31:36.818 [main] LoginClass - Sign In button is clicked
+[INFO ] 2022-03-22 22:31:36.850 [main] LoginClass - Page title is Verify IDP
+[INFO ] 2022-03-22 22:31:36.851 [main] LoginClass - Page Title is validated
+[INFO ] 2022-03-22 22:31:37.048 [main] LoginClass - username is entered
+[INFO ] 2022-03-22 22:31:37.209 [main] LoginClass - password is entered
+[INFO ] 2022-03-22 22:31:57.161 [main] LoginClass - Sign In button is clicked
+[INFO ] 2022-03-22 22:31:57.201 [main] DashboardClass - Page title is Welcome to Oklahama wesleyan university
+[INFO ] 2022-03-22 22:31:57.201 [main] DashboardClass - Page Title is validated
+[INFO ] 2022-03-22 22:32:05.700 [main] DashboardClass - Widget Delete icon is clicked
+[INFO ] 2022-03-22 22:32:05.850 [main] DashboardClass - Delete Confirmation pop up is showing up
+[INFO ] 2022-03-22 22:32:09.008 [main] DashboardClass - Delete button is clicked
+[INFO ] 2022-03-22 22:32:09.430 [main] DashboardClass - Add widget is clicked
+[INFO ] 2022-03-22 22:32:12.596 [main] DashboardClass - Widget is selected for adding
+[INFO ] 2022-03-22 22:32:15.875 [main] DashboardClass - Widget is added
+[INFO ] 2022-03-22 22:32:16.161 [main] DashboardClass - Expand icon is clicked
+[INFO ] 2022-03-22 22:32:19.167 [main] DashboardClass - Widget is expended
+[INFO ] 2022-03-22 22:32:19.414 [main] DashboardClass - Collapse icon is clicked
+[INFO ] 2022-03-22 22:32:22.430 [main] DashboardClass - Widget is Collapsed
+[INFO ] 2022-03-22 22:32:27.775 [main] PeopleSearchClass - Page title is People Search
+[INFO ] 2022-03-22 22:32:27.775 [main] PeopleSearchClass - Page Title is validated
+[INFO ] 2022-03-22 22:32:36.552 [main] PeopleSearchClass - Showing result is showing up
+[INFO ] 2022-03-22 22:32:53.237 [main] ProspectsViewRecordsClass - Prospect is clicked
+[INFO ] 2022-03-22 22:32:56.660 [main] ProspectsViewRecordsClass - View record is clicked
+[INFO ] 2022-03-22 22:32:57.029 [main] ProspectsViewRecordsClass - Page title is Prospects
+[INFO ] 2022-03-22 22:32:57.030 [main] ProspectsViewRecordsClass - Page Title is validated
+[INFO ] 2022-03-22 22:33:02.200 [main] ProspectsViewRecordsClass - Add filter link is clicked
+[INFO ] 2022-03-22 22:33:02.325 [main] ProspectsViewRecordsClass - pop up title is Filter
+[INFO ] 2022-03-22 22:33:02.325 [main] ProspectsViewRecordsClass - Pop up Title is validated
+[INFO ] 2022-03-22 22:33:07.900 [main] ProspectsViewRecordsClass - Filter is selected
+[INFO ] 2022-03-22 22:33:15.458 [main] ProspectsViewRecordsClass - Apply filter is clicked
+[INFO ] 2022-03-22 22:33:21.268 [main] ProspectsViewRecordsClass - Clear all filter is clicked
+[INFO ] 2022-03-22 22:33:29.447 [main] ProspectsViewRecordsClass - Customize column pop up is opened successfully.
+[INFO ] 2022-03-22 22:33:35.946 [main] ProspectsViewRecordsClass - Please select at least one column error message is showign up.
+[INFO ] 2022-03-22 22:35:08.992 [main] LoginClass - Page title is Verify IDP
+[INFO ] 2022-03-22 22:35:09.001 [main] LoginClass - Page Title is validated
+[INFO ] 2022-03-22 22:35:09.206 [main] LoginClass - username is entered
+[INFO ] 2022-03-22 22:35:09.371 [main] LoginClass - password is entered
+[INFO ] 2022-03-22 22:35:12.067 [main] LoginClass - Sign In button is clicked
+[INFO ] 2022-03-22 22:35:12.102 [main] LoginClass - Page title is Verify IDP
+[INFO ] 2022-03-22 22:35:12.102 [main] LoginClass - Page Title is validated
+[INFO ] 2022-03-22 22:35:12.358 [main] LoginClass - username is entered
+[INFO ] 2022-03-22 22:35:12.489 [main] LoginClass - password is entered
+[INFO ] 2022-03-22 22:35:22.055 [main] LoginClass - Sign In button is clicked
+[INFO ] 2022-03-22 22:35:22.095 [main] DashboardClass - Page title is Welcome to Oklahama wesleyan university
+[INFO ] 2022-03-22 22:35:22.095 [main] DashboardClass - Page Title is validated
+[INFO ] 2022-03-22 22:35:32.853 [main] DashboardClass - Widget Delete icon is clicked
+[INFO ] 2022-03-22 22:35:33.048 [main] DashboardClass - Delete Confirmation pop up is showing up
+[INFO ] 2022-03-22 22:35:36.199 [main] DashboardClass - Delete button is clicked
+[INFO ] 2022-03-22 22:35:36.596 [main] DashboardClass - Add widget is clicked
+[INFO ] 2022-03-22 22:35:39.821 [main] DashboardClass - Widget is selected for adding
+[INFO ] 2022-03-22 22:35:43.151 [main] DashboardClass - Widget is added
+[INFO ] 2022-03-22 22:35:43.445 [main] DashboardClass - Expand icon is clicked
+[INFO ] 2022-03-22 22:35:46.464 [main] DashboardClass - Widget is expended
+[INFO ] 2022-03-22 22:35:46.594 [main] DashboardClass - Collapse icon is clicked
+[INFO ] 2022-03-22 22:35:49.606 [main] DashboardClass - Widget is Collapsed
+[INFO ] 2022-03-22 22:36:47.611 [main] PeopleSearchClass - Page title is People Search
+[INFO ] 2022-03-22 22:36:47.612 [main] PeopleSearchClass - Page Title is validated
+[INFO ] 2022-03-22 22:36:56.585 [main] PeopleSearchClass - Showing result is showing up
+[INFO ] 2022-03-22 22:37:10.353 [main] ProspectsViewRecordsClass - Prospect is clicked
+[INFO ] 2022-03-22 22:37:14.310 [main] ProspectsViewRecordsClass - View record is clicked
+[INFO ] 2022-03-22 22:37:14.431 [main] ProspectsViewRecordsClass - Page title is Prospects
+[INFO ] 2022-03-22 22:37:14.431 [main] ProspectsViewRecordsClass - Page Title is validated
+[INFO ] 2022-03-22 22:37:19.780 [main] ProspectsViewRecordsClass - Add filter link is clicked
+[INFO ] 2022-03-22 22:37:19.882 [main] ProspectsViewRecordsClass - pop up title is Filter
+[INFO ] 2022-03-22 22:37:19.882 [main] ProspectsViewRecordsClass - Pop up Title is validated
+[INFO ] 2022-03-22 22:37:25.297 [main] ProspectsViewRecordsClass - Filter is selected
+[INFO ] 2022-03-22 22:37:32.605 [main] ProspectsViewRecordsClass - Apply filter is clicked
+[INFO ] 2022-03-22 22:37:40.168 [main] ProspectsViewRecordsClass - Clear all filter is clicked
+[INFO ] 2022-03-22 22:37:48.134 [main] ProspectsViewRecordsClass - Customize column pop up is opened successfully.
+[INFO ] 2022-03-22 22:40:46.099 [main] ProspectsViewRecordsClass - Please select at least one column error message is showign up.
+[INFO ] 2022-03-22 22:48:20.234 [main] LoginClass - Page title is Verify IDP
+[INFO ] 2022-03-22 22:48:20.243 [main] LoginClass - Page Title is validated
+[INFO ] 2022-03-22 22:48:20.464 [main] LoginClass - username is entered
+[INFO ] 2022-03-22 22:48:20.814 [main] LoginClass - password is entered
+[INFO ] 2022-03-22 22:48:22.620 [main] LoginClass - Sign In button is clicked
+[INFO ] 2022-03-22 22:48:22.646 [main] LoginClass - Page title is Verify IDP
+[INFO ] 2022-03-22 22:48:22.646 [main] LoginClass - Page Title is validated
+[INFO ] 2022-03-22 22:48:22.860 [main] LoginClass - username is entered
+[INFO ] 2022-03-22 22:48:23.018 [main] LoginClass - password is entered
+[INFO ] 2022-03-22 22:48:36.917 [main] LoginClass - Sign In button is clicked
+[INFO ] 2022-03-22 22:48:42.440 [main] ProspectsViewRecordsClass - Prospect is clicked
+[INFO ] 2022-03-22 22:48:45.845 [main] ProspectsViewRecordsClass - View record is clicked
+[INFO ] 2022-03-22 22:48:53.520 [main] ProspectsViewRecordsClass - Page title is Prospects
+[INFO ] 2022-03-22 22:48:53.520 [main] ProspectsViewRecordsClass - Page Title is validated
+[INFO ] 2022-03-22 22:48:58.653 [main] ProspectsViewRecordsClass - Add filter link is clicked
+[INFO ] 2022-03-22 22:49:00.085 [main] ProspectsViewRecordsClass - pop up title is 
+[INFO ] 2022-03-22 22:50:43.963 [main] LoginClass - Page title is Verify IDP
+[INFO ] 2022-03-22 22:50:43.971 [main] LoginClass - Page Title is validated
+[INFO ] 2022-03-22 22:50:44.190 [main] LoginClass - username is entered
+[INFO ] 2022-03-22 22:50:44.388 [main] LoginClass - password is entered
+[INFO ] 2022-03-22 22:50:46.183 [main] LoginClass - Sign In button is clicked
+[INFO ] 2022-03-22 22:50:46.211 [main] LoginClass - Page title is Verify IDP
+[INFO ] 2022-03-22 22:50:46.211 [main] LoginClass - Page Title is validated
+[INFO ] 2022-03-22 22:50:46.357 [main] LoginClass - username is entered
+[INFO ] 2022-03-22 22:50:46.523 [main] LoginClass - password is entered
+[INFO ] 2022-03-22 22:51:06.660 [main] LoginClass - Sign In button is clicked
+[INFO ] 2022-03-22 22:51:12.252 [main] ProspectsViewRecordsClass - Prospect is clicked
+[INFO ] 2022-03-22 22:52:23.711 [main] LoginClass - Page title is Verify IDP
+[INFO ] 2022-03-22 22:52:23.719 [main] LoginClass - Page Title is validated
+[INFO ] 2022-03-22 22:52:24.071 [main] LoginClass - username is entered
+[INFO ] 2022-03-22 22:52:24.372 [main] LoginClass - password is entered
+[INFO ] 2022-03-22 22:52:26.331 [main] LoginClass - Sign In button is clicked
+[INFO ] 2022-03-22 22:52:31.392 [main] LoginClass - Page title is Verify IDP
+[INFO ] 2022-03-22 22:52:31.392 [main] LoginClass - Page Title is validated
+[INFO ] 2022-03-22 22:52:31.576 [main] LoginClass - username is entered
+[INFO ] 2022-03-22 22:52:31.692 [main] LoginClass - password is entered
+[INFO ] 2022-03-22 22:52:53.649 [main] LoginClass - Sign In button is clicked
+[INFO ] 2022-03-22 22:53:02.180 [main] ProspectsViewRecordsClass - Prospect is clicked
+[INFO ] 2022-03-22 22:53:05.475 [main] ProspectsViewRecordsClass - View record is clicked
+[INFO ] 2022-03-22 22:53:07.414 [main] ProspectsViewRecordsClass - Page title is Prospects
+[INFO ] 2022-03-22 22:53:07.414 [main] ProspectsViewRecordsClass - Page Title is validated
+[INFO ] 2022-03-22 22:53:17.954 [main] ProspectsViewRecordsClass - Add filter link is clicked
+[INFO ] 2022-03-22 22:53:18.057 [main] ProspectsViewRecordsClass - pop up title is Filter
+[INFO ] 2022-03-22 22:53:18.057 [main] ProspectsViewRecordsClass - Pop up Title is validated
+[INFO ] 2022-03-22 22:53:23.725 [main] ProspectsViewRecordsClass - Filter is selected
+[INFO ] 2022-03-22 22:53:31.370 [main] ProspectsViewRecordsClass - Apply filter is clicked
+[INFO ] 2022-03-22 22:53:38.407 [main] ProspectsViewRecordsClass - Clear all filter is clicked
+[INFO ] 2022-03-22 22:53:46.575 [main] ProspectsViewRecordsClass - Customize column pop up is opened successfully.
+[INFO ] 2022-03-22 22:53:53.042 [main] ProspectsViewRecordsClass - Please select at least one column error message is showign up.
+[INFO ] 2022-03-22 22:54:58.629 [main] LoginClass - Page title is Verify IDP
+[INFO ] 2022-03-22 22:54:58.646 [main] LoginClass - Page Title is validated
+[INFO ] 2022-03-22 22:54:58.926 [main] LoginClass - username is entered
+[INFO ] 2022-03-22 22:54:59.155 [main] LoginClass - password is entered
+[INFO ] 2022-03-22 22:55:00.986 [main] LoginClass - Sign In button is clicked
+[INFO ] 2022-03-22 22:55:06.023 [main] LoginClass - Page title is Verify IDP
+[INFO ] 2022-03-22 22:55:06.023 [main] LoginClass - Page Title is validated
+[INFO ] 2022-03-22 22:55:06.197 [main] LoginClass - username is entered
+[INFO ] 2022-03-22 22:55:06.355 [main] LoginClass - password is entered
+[INFO ] 2022-03-22 22:55:24.980 [main] LoginClass - Sign In button is clicked

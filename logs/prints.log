@@ -1,0 +1,12 @@
+[INFO ] 2022-03-22 22:55:33.282 [main] ProspectsViewRecordsClass - Prospect is clicked
+[INFO ] 2022-03-22 22:55:36.629 [main] ProspectsViewRecordsClass - View record is clicked
+[INFO ] 2022-03-22 22:55:41.279 [main] ProspectsViewRecordsClass - Page title is Prospects
+[INFO ] 2022-03-22 22:55:41.279 [main] ProspectsViewRecordsClass - Page Title is validated
+[INFO ] 2022-03-22 22:55:52.002 [main] ProspectsViewRecordsClass - Add filter link is clicked
+[INFO ] 2022-03-22 22:55:52.067 [main] ProspectsViewRecordsClass - pop up title is Filter
+[INFO ] 2022-03-22 22:55:52.067 [main] ProspectsViewRecordsClass - Pop up Title is validated
+[INFO ] 2022-03-22 22:55:57.418 [main] ProspectsViewRecordsClass - Filter is selected
+[INFO ] 2022-03-22 22:56:04.717 [main] ProspectsViewRecordsClass - Apply filter is clicked
+[INFO ] 2022-03-22 22:56:11.534 [main] ProspectsViewRecordsClass - Clear all filter is clicked
+[INFO ] 2022-03-22 22:56:19.583 [main] ProspectsViewRecordsClass - Customize column pop up is opened successfully.
+[INFO ] 2022-03-22 22:56:23.242 [main] ProspectsViewRecordsClass - Please select at least one column error message is showign up.

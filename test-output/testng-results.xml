@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="2" total="5" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-03-22T22:54:43 IST" name="Default suite" finished-at="2022-03-22T22:56:28 IST" duration-ms="104571">
+    <groups>
+    </groups>
+    <test started-at="2022-03-22T22:54:43 IST" name="Default test" finished-at="2022-03-22T22:56:28 IST" duration-ms="104571">
+      <class name="AdministrationTC.Admin_Flow">
+        <test-method is-config="true" signature="browserload()[pri:0, instance:AdministrationTC.Admin_Flow@618425b5]" started-at="2022-03-22T22:54:43 IST" name="browserload" finished-at="2022-03-22T22:54:56 IST" duration-ms="12297" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserload -->
+        <test-method signature="Login_Page_method(java.lang.String,java.lang.String)[pri:1, instance:AdministrationTC.Admin_Flow@618425b5]" started-at="2022-03-22T22:54:57 IST" name="Login_Page_method" data-provider="Adm_LoginPage" finished-at="2022-03-22T22:55:05 IST" duration-ms="8458" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ssoadmin@unifyedadmitqa.edu]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Admin@12344]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login_Page_method -->
+        <test-method signature="Login_Page_method(java.lang.String,java.lang.String)[pri:1, instance:AdministrationTC.Admin_Flow@618425b5]" started-at="2022-03-22T22:55:05 IST" name="Login_Page_method" data-provider="Adm_LoginPage" finished-at="2022-03-22T22:55:29 IST" duration-ms="23987" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[pankaj@unifyedadmitqa.edu]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Admin@12]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login_Page_method -->
+        <test-method signature="ProspectViewRecords_page_method()[pri:4, instance:AdministrationTC.Admin_Flow@618425b5]" started-at="2022-03-22T22:55:29 IST" name="ProspectViewRecords_page_method" finished-at="2022-03-22T22:56:27 IST" duration-ms="57144" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ProspectViewRecords_page_method -->
+        <test-method is-config="true" signature="closebrowser()[pri:0, instance:AdministrationTC.Admin_Flow@618425b5]" started-at="2022-03-22T22:56:27 IST" name="closebrowser" finished-at="2022-03-22T22:56:28 IST" duration-ms="1197" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+      </class> <!-- AdministrationTC.Admin_Flow -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

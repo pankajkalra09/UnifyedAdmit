@@ -30,7 +30,7 @@ public class BaseClass {
 		driver.manage().window().maximize();
 		driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
 		//driver.get(prop.getProperty("url"));
-
+		//test
 		return driver;
 
 	}

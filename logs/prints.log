@@ -10,3 +10,566 @@
 [INFO ] 2022-03-22 22:56:11.534 [main] ProspectsViewRecordsClass - Clear all filter is clicked
 [INFO ] 2022-03-22 22:56:19.583 [main] ProspectsViewRecordsClass - Customize column pop up is opened successfully.
 [INFO ] 2022-03-22 22:56:23.242 [main] ProspectsViewRecordsClass - Please select at least one column error message is showign up.
+[INFO ] 2022-05-30 12:49:00.309 [main] LoginClass - Page title is Verify IDP
+[INFO ] 2022-05-30 12:49:00.319 [main] LoginClass - Page Title is validated
+[INFO ] 2022-05-30 12:49:00.490 [main] LoginClass - username is entered
+[INFO ] 2022-05-30 12:49:00.676 [main] LoginClass - password is entered
+[INFO ] 2022-05-30 12:49:01.943 [main] LoginClass - Sign In button is clicked
+[INFO ] 2022-05-30 12:49:06.956 [main] LoginClass - Page title is Verify IDP
+[INFO ] 2022-05-30 12:49:06.957 [main] LoginClass - Page Title is validated
+[INFO ] 2022-05-30 12:49:07.072 [main] LoginClass - username is entered
+[INFO ] 2022-05-30 12:49:07.133 [main] LoginClass - password is entered
+[INFO ] 2022-05-30 12:49:15.592 [main] LoginClass - Sign In button is clicked
+[INFO ] 2022-05-30 12:49:32.568 [main] DashboardClass - Page title is Welcome to Oklahama wesleyan university
+[INFO ] 2022-05-30 12:49:32.568 [main] DashboardClass - Page Title is validated
+[INFO ] 2022-05-30 12:49:46.530 [main] DashboardClass - Widget Delete icon is clicked
+[INFO ] 2022-05-30 12:49:49.058 [main] DashboardClass - Delete Confirmation pop up is showing up
+[INFO ] 2022-05-30 12:49:52.493 [main] DashboardClass - Delete button is clicked
+[INFO ] 2022-05-30 12:50:26.136 [main] ProspectsViewRecordsClass - Prospect is clicked
+[INFO ] 2022-05-30 12:50:29.801 [main] ProspectsViewRecordsClass - View record is clicked
+[INFO ] 2022-05-30 12:50:29.881 [main] ProspectsViewRecordsClass - Page title is Prospects
+[INFO ] 2022-05-30 12:50:29.881 [main] ProspectsViewRecordsClass - Page Title is validated
+[INFO ] 2022-05-30 12:50:40.046 [main] ProspectsViewRecordsClass - Add filter link is clicked
+[INFO ] 2022-05-30 12:50:40.105 [main] ProspectsViewRecordsClass - pop up title is 
+[INFO ] 2022-05-30 13:23:12.836 [main] LoginClass - Page title is Verify IDP
+[INFO ] 2022-05-30 13:23:12.844 [main] LoginClass - Page Title is validated
+[INFO ] 2022-05-30 13:23:13.143 [main] LoginClass - username is entered
+[INFO ] 2022-05-30 13:23:13.347 [main] LoginClass - password is entered
+[INFO ] 2022-05-30 13:23:15.124 [main] LoginClass - Sign In button is clicked
+[INFO ] 2022-05-30 13:23:20.154 [main] LoginClass - Page title is Verify IDP
+[INFO ] 2022-05-30 13:23:20.155 [main] LoginClass - Page Title is validated
+[INFO ] 2022-05-30 13:23:20.327 [main] LoginClass - username is entered
+[INFO ] 2022-05-30 13:23:20.404 [main] LoginClass - password is entered
+[INFO ] 2022-05-30 13:23:28.938 [main] LoginClass - Sign In button is clicked
+[INFO ] 2022-05-30 13:23:33.956 [main] DashboardClass - Page title is Welcome to Oklahama wesleyan university
+[INFO ] 2022-05-30 13:23:33.956 [main] DashboardClass - Page Title is validated
+[INFO ] 2022-05-30 13:23:37.074 [main] DashboardClass - Widget Delete icon is clicked
+[INFO ] 2022-05-30 13:23:46.487 [main] DashboardClass - Delete Confirmation pop up is showing up
+[INFO ] 2022-05-30 13:23:59.246 [main] DashboardClass - Delete button is clicked
+[INFO ] 2022-05-30 13:24:08.771 [main] DashboardClass - Widget Delete icon is clicked
+[INFO ] 2022-05-30 13:24:08.917 [main] DashboardClass - Delete Confirmation pop up is showing up
+[INFO ] 2022-05-30 13:24:12.314 [main] DashboardClass - Delete button is clicked
+[INFO ] 2022-05-30 13:24:15.615 [main] DashboardClass - Widget Delete icon is clicked
+[INFO ] 2022-05-30 13:24:15.752 [main] DashboardClass - Delete Confirmation pop up is showing up
+[INFO ] 2022-05-30 13:24:19.175 [main] DashboardClass - Delete button is clicked
+[INFO ] 2022-05-30 13:24:22.443 [main] DashboardClass - Widget Delete icon is clicked
+[INFO ] 2022-05-30 13:24:22.562 [main] DashboardClass - Delete Confirmation pop up is showing up
+[INFO ] 2022-05-30 13:24:25.972 [main] DashboardClass - Delete button is clicked
+[INFO ] 2022-05-30 13:24:29.316 [main] DashboardClass - Widget Delete icon is clicked
+[INFO ] 2022-05-30 13:24:29.480 [main] DashboardClass - Delete Confirmation pop up is showing up
+[INFO ] 2022-05-30 13:24:32.933 [main] DashboardClass - Delete button is clicked
+[INFO ] 2022-05-30 13:24:36.165 [main] DashboardClass - Widget Delete icon is clicked
+[INFO ] 2022-05-30 13:24:36.314 [main] DashboardClass - Delete Confirmation pop up is showing up
+[INFO ] 2022-05-30 13:24:39.751 [main] DashboardClass - Delete button is clicked
+[INFO ] 2022-05-30 13:24:42.997 [main] DashboardClass - Widget Delete icon is clicked
+[INFO ] 2022-05-30 13:24:43.130 [main] DashboardClass - Delete Confirmation pop up is showing up
+[INFO ] 2022-05-30 13:24:46.566 [main] DashboardClass - Delete button is clicked
+[INFO ] 2022-05-30 13:24:49.862 [main] DashboardClass - Widget Delete icon is clicked
+[INFO ] 2022-05-30 13:24:49.996 [main] DashboardClass - Delete Confirmation pop up is showing up
+[INFO ] 2022-05-30 13:24:53.415 [main] DashboardClass - Delete button is clicked
+[INFO ] 2022-05-30 13:24:56.704 [main] DashboardClass - Widget Delete icon is clicked
+[INFO ] 2022-05-30 13:24:56.783 [main] DashboardClass - Delete Confirmation pop up is showing up
+[INFO ] 2022-05-30 13:25:00.151 [main] DashboardClass - Delete button is clicked
+[INFO ] 2022-05-30 13:25:03.478 [main] DashboardClass - Widget Delete icon is clicked
+[INFO ] 2022-05-30 13:25:03.595 [main] DashboardClass - Delete Confirmation pop up is showing up
+[INFO ] 2022-05-30 13:25:07.037 [main] DashboardClass - Delete button is clicked
+[INFO ] 2022-05-30 13:25:10.303 [main] DashboardClass - Widget Delete icon is clicked
+[INFO ] 2022-05-30 13:25:10.410 [main] DashboardClass - Delete Confirmation pop up is showing up
+[INFO ] 2022-05-30 13:25:13.849 [main] DashboardClass - Delete button is clicked
+[INFO ] 2022-05-30 13:25:17.172 [main] DashboardClass - Widget Delete icon is clicked
+[INFO ] 2022-05-30 13:25:17.303 [main] DashboardClass - Delete Confirmation pop up is showing up
+[INFO ] 2022-05-30 13:25:20.774 [main] DashboardClass - Delete button is clicked
+[INFO ] 2022-05-30 13:25:24.082 [main] DashboardClass - Widget Delete icon is clicked
+[INFO ] 2022-05-30 13:25:24.205 [main] DashboardClass - Delete Confirmation pop up is showing up
+[INFO ] 2022-05-30 13:25:27.616 [main] DashboardClass - Delete button is clicked
+[INFO ] 2022-05-30 13:25:31.723 [main] DashboardClass - Widget Delete icon is clicked
+[INFO ] 2022-05-30 13:25:31.840 [main] DashboardClass - Delete Confirmation pop up is showing up
+[INFO ] 2022-05-30 13:25:35.311 [main] DashboardClass - Delete button is clicked
+[INFO ] 2022-05-30 13:25:38.581 [main] DashboardClass - Widget Delete icon is clicked
+[INFO ] 2022-05-30 13:25:38.711 [main] DashboardClass - Delete Confirmation pop up is showing up
+[INFO ] 2022-05-30 13:25:42.088 [main] DashboardClass - Delete button is clicked
+[INFO ] 2022-05-30 13:25:45.354 [main] DashboardClass - Widget Delete icon is clicked
+[INFO ] 2022-05-30 13:25:45.715 [main] DashboardClass - Delete Confirmation pop up is showing up
+[INFO ] 2022-05-30 13:25:49.067 [main] DashboardClass - Delete button is clicked
+[INFO ] 2022-05-30 13:25:52.316 [main] DashboardClass - Widget Delete icon is clicked
+[INFO ] 2022-05-30 13:25:52.435 [main] DashboardClass - Delete Confirmation pop up is showing up
+[INFO ] 2022-05-30 13:25:55.867 [main] DashboardClass - Delete button is clicked
+[INFO ] 2022-05-30 13:25:59.187 [main] DashboardClass - Widget Delete icon is clicked
+[INFO ] 2022-05-30 13:25:59.303 [main] DashboardClass - Delete Confirmation pop up is showing up
+[INFO ] 2022-05-30 13:26:02.710 [main] DashboardClass - Delete button is clicked
+[INFO ] 2022-05-30 13:26:05.943 [main] DashboardClass - Widget Delete icon is clicked
+[INFO ] 2022-05-30 13:26:06.074 [main] DashboardClass - Delete Confirmation pop up is showing up
+[INFO ] 2022-05-30 13:26:09.467 [main] DashboardClass - Delete button is clicked
+[INFO ] 2022-05-30 13:26:12.773 [main] DashboardClass - Widget Delete icon is clicked
+[INFO ] 2022-05-30 13:26:12.880 [main] DashboardClass - Delete Confirmation pop up is showing up
+[INFO ] 2022-05-30 13:26:16.217 [main] DashboardClass - Delete button is clicked
+[INFO ] 2022-05-30 13:26:19.503 [main] DashboardClass - Widget Delete icon is clicked
+[INFO ] 2022-05-30 13:26:19.613 [main] DashboardClass - Delete Confirmation pop up is showing up
+[INFO ] 2022-05-30 13:26:23.034 [main] DashboardClass - Delete button is clicked
+[INFO ] 2022-05-30 13:26:26.262 [main] DashboardClass - Widget Delete icon is clicked
+[INFO ] 2022-05-30 13:26:26.378 [main] DashboardClass - Delete Confirmation pop up is showing up
+[INFO ] 2022-05-30 13:26:29.755 [main] DashboardClass - Delete button is clicked
+[INFO ] 2022-05-30 13:26:33.048 [main] DashboardClass - Widget Delete icon is clicked
+[INFO ] 2022-05-30 13:26:33.170 [main] DashboardClass - Delete Confirmation pop up is showing up
+[INFO ] 2022-05-30 13:26:36.537 [main] DashboardClass - Delete button is clicked
+[INFO ] 2022-05-30 13:26:39.762 [main] DashboardClass - Widget Delete icon is clicked
+[INFO ] 2022-05-30 13:26:39.857 [main] DashboardClass - Delete Confirmation pop up is showing up
+[INFO ] 2022-05-30 13:26:43.288 [main] DashboardClass - Delete button is clicked
+[INFO ] 2022-05-30 13:26:46.535 [main] DashboardClass - Widget Delete icon is clicked
+[INFO ] 2022-05-30 13:26:46.646 [main] DashboardClass - Delete Confirmation pop up is showing up
+[INFO ] 2022-05-30 13:26:49.987 [main] DashboardClass - Delete button is clicked
+[INFO ] 2022-05-30 13:26:53.169 [main] DashboardClass - Widget Delete icon is clicked
+[INFO ] 2022-05-30 13:26:53.284 [main] DashboardClass - Delete Confirmation pop up is showing up
+[INFO ] 2022-05-30 13:26:56.624 [main] DashboardClass - Delete button is clicked
+[INFO ] 2022-05-30 13:26:59.843 [main] DashboardClass - Widget Delete icon is clicked
+[INFO ] 2022-05-30 13:26:59.954 [main] DashboardClass - Delete Confirmation pop up is showing up
+[INFO ] 2022-05-30 13:27:03.272 [main] DashboardClass - Delete button is clicked
+[INFO ] 2022-05-30 13:27:06.529 [main] DashboardClass - Widget Delete icon is clicked
+[INFO ] 2022-05-30 13:27:06.634 [main] DashboardClass - Delete Confirmation pop up is showing up
+[INFO ] 2022-05-30 13:27:09.751 [main] DashboardClass - Delete button is clicked
+[INFO ] 2022-05-30 13:27:13.083 [main] DashboardClass - Widget Delete icon is clicked
+[INFO ] 2022-05-30 13:27:13.189 [main] DashboardClass - Delete Confirmation pop up is showing up
+[INFO ] 2022-05-30 13:27:16.497 [main] DashboardClass - Delete button is clicked
+[INFO ] 2022-05-30 13:27:19.743 [main] DashboardClass - Widget Delete icon is clicked
+[INFO ] 2022-05-30 13:27:19.822 [main] DashboardClass - Delete Confirmation pop up is showing up
+[INFO ] 2022-05-30 13:27:23.179 [main] DashboardClass - Delete button is clicked
+[INFO ] 2022-05-30 13:27:26.407 [main] DashboardClass - Widget Delete icon is clicked
+[INFO ] 2022-05-30 13:27:26.495 [main] DashboardClass - Delete Confirmation pop up is showing up
+[INFO ] 2022-05-30 13:27:29.839 [main] DashboardClass - Delete button is clicked
+[INFO ] 2022-05-30 13:27:33.081 [main] DashboardClass - Widget Delete icon is clicked
+[INFO ] 2022-05-30 13:27:33.251 [main] DashboardClass - Delete Confirmation pop up is showing up
+[INFO ] 2022-05-30 13:27:36.684 [main] DashboardClass - Delete button is clicked
+[INFO ] 2022-05-30 13:27:39.929 [main] DashboardClass - Widget Delete icon is clicked
+[INFO ] 2022-05-30 13:27:40.042 [main] DashboardClass - Delete Confirmation pop up is showing up
+[INFO ] 2022-05-30 13:27:43.368 [main] DashboardClass - Delete button is clicked
+[INFO ] 2022-05-30 13:27:46.602 [main] DashboardClass - Widget Delete icon is clicked
+[INFO ] 2022-05-30 13:27:46.712 [main] DashboardClass - Delete Confirmation pop up is showing up
+[INFO ] 2022-05-30 13:27:50.037 [main] DashboardClass - Delete button is clicked
+[INFO ] 2022-05-30 13:27:53.265 [main] DashboardClass - Widget Delete icon is clicked
+[INFO ] 2022-05-30 13:27:53.370 [main] DashboardClass - Delete Confirmation pop up is showing up
+[INFO ] 2022-05-30 13:27:56.695 [main] DashboardClass - Delete button is clicked
+[INFO ] 2022-05-30 13:27:59.900 [main] DashboardClass - Widget Delete icon is clicked
+[INFO ] 2022-05-30 13:27:59.976 [main] DashboardClass - Delete Confirmation pop up is showing up
+[INFO ] 2022-05-30 13:28:03.306 [main] DashboardClass - Delete button is clicked
+[INFO ] 2022-05-30 13:28:06.562 [main] DashboardClass - Widget Delete icon is clicked
+[INFO ] 2022-05-30 13:28:06.660 [main] DashboardClass - Delete Confirmation pop up is showing up
+[INFO ] 2022-05-30 13:28:10.012 [main] DashboardClass - Delete button is clicked
+[INFO ] 2022-05-30 13:28:13.240 [main] DashboardClass - Widget Delete icon is clicked
+[INFO ] 2022-05-30 13:28:13.344 [main] DashboardClass - Delete Confirmation pop up is showing up
+[INFO ] 2022-05-30 13:28:16.653 [main] DashboardClass - Delete button is clicked
+[INFO ] 2022-05-30 13:28:52.411 [main] ProspectsViewRecordsClass - Prospect is clicked
+[INFO ] 2022-05-30 13:28:55.844 [main] ProspectsViewRecordsClass - View record is clicked
+[INFO ] 2022-05-30 13:28:55.950 [main] ProspectsViewRecordsClass - Page title is Prospects
+[INFO ] 2022-05-30 13:28:55.950 [main] ProspectsViewRecordsClass - Page Title is validated
+[INFO ] 2022-05-30 13:29:06.155 [main] ProspectsViewRecordsClass - Add filter link is clicked
+[INFO ] 2022-05-30 13:29:06.236 [main] ProspectsViewRecordsClass - pop up title is 
+[INFO ] 2022-05-30 13:32:51.740 [main] LoginClass - Page title is Verify IDP
+[INFO ] 2022-05-30 13:32:51.749 [main] LoginClass - Page Title is validated
+[INFO ] 2022-05-30 13:32:52.012 [main] LoginClass - username is entered
+[INFO ] 2022-05-30 13:32:52.198 [main] LoginClass - password is entered
+[INFO ] 2022-05-30 13:32:53.377 [main] LoginClass - Sign In button is clicked
+[INFO ] 2022-05-30 13:33:03.412 [main] LoginClass - Page title is Verify IDP
+[INFO ] 2022-05-30 13:33:03.413 [main] LoginClass - Page Title is validated
+[INFO ] 2022-05-30 13:33:03.590 [main] LoginClass - username is entered
+[INFO ] 2022-05-30 13:33:03.687 [main] LoginClass - password is entered
+[INFO ] 2022-05-30 13:33:22.470 [main] LoginClass - Sign In button is clicked
+[INFO ] 2022-05-30 13:33:32.496 [main] DashboardClass - Page title is Welcome to Oklahama wesleyan university
+[INFO ] 2022-05-30 13:33:32.496 [main] DashboardClass - Page Title is validated
+[INFO ] 2022-05-30 13:33:32.778 [main] DashboardClass - Hamburger icon is clicked
+[INFO ] 2022-05-30 13:33:40.739 [main] DashboardClass - Widget Delete icon is clicked
+[INFO ] 2022-05-30 13:33:40.869 [main] DashboardClass - Delete Confirmation pop up is showing up
+[INFO ] 2022-05-30 13:33:44.272 [main] DashboardClass - Delete button is clicked
+[INFO ] 2022-05-30 13:33:47.539 [main] DashboardClass - Widget Delete icon is clicked
+[INFO ] 2022-05-30 13:33:47.646 [main] DashboardClass - Delete Confirmation pop up is showing up
+[INFO ] 2022-05-30 13:33:50.925 [main] DashboardClass - Delete button is clicked
+[INFO ] 2022-05-30 13:33:56.435 [main] PeopleSearchClass - Page title is People Search
+[INFO ] 2022-05-30 13:33:56.435 [main] PeopleSearchClass - Page Title is validated
+[INFO ] 2022-05-30 13:34:04.839 [main] PeopleSearchClass - Showing result is showing up
+[INFO ] 2022-05-30 13:34:18.265 [main] ProspectsViewRecordsClass - Prospect is clicked
+[INFO ] 2022-05-30 13:34:21.442 [main] ProspectsViewRecordsClass - View record is clicked
+[INFO ] 2022-05-30 13:34:21.493 [main] ProspectsViewRecordsClass - Page title is Prospects
+[INFO ] 2022-05-30 13:34:21.493 [main] ProspectsViewRecordsClass - Page Title is validated
+[INFO ] 2022-05-30 13:34:31.629 [main] ProspectsViewRecordsClass - Add filter link is clicked
+[INFO ] 2022-05-30 13:34:31.697 [main] ProspectsViewRecordsClass - pop up title is 
+[INFO ] 2023-03-17 08:06:38.707 [main] LoginClass - Page title is Verify IDP
+[INFO ] 2023-03-17 08:06:38.714 [main] LoginClass - Page Title is validated
+[INFO ] 2023-03-17 08:06:38.903 [main] LoginClass - username is entered
+[INFO ] 2023-03-17 08:06:39.018 [main] LoginClass - password is entered
+[INFO ] 2023-03-17 08:06:40.122 [main] LoginClass - Sign In button is clicked
+[INFO ] 2023-03-17 08:56:17.890 [main] LoginClass - Page title is Verify IDP
+[INFO ] 2023-03-17 08:56:17.895 [main] LoginClass - Page Title is validated
+[INFO ] 2023-03-17 08:56:18.033 [main] LoginClass - username is entered
+[INFO ] 2023-03-17 08:56:18.174 [main] LoginClass - password is entered
+[INFO ] 2023-03-17 08:56:19.300 [main] LoginClass - Sign In button is clicked
+[INFO ] 2023-03-17 08:56:29.331 [main] LoginClass - Page title is Verify IDP
+[INFO ] 2023-03-17 08:56:29.332 [main] LoginClass - Page Title is validated
+[INFO ] 2023-03-17 08:56:29.403 [main] LoginClass - username is entered
+[INFO ] 2023-03-17 08:56:29.491 [main] LoginClass - password is entered
+[INFO ] 2023-03-17 08:56:30.731 [main] LoginClass - Sign In button is clicked
+[INFO ] 2023-03-17 08:56:40.747 [main] DashboardClass - Page title is Verify IDP
+[INFO ] 2023-03-17 08:57:50.819 [main] PeopleSearchClass - Page title is People Search
+[INFO ] 2023-03-17 08:57:50.820 [main] PeopleSearchClass - Page Title is validated
+[INFO ] 2023-03-17 08:57:59.147 [main] PeopleSearchClass - Showing result is showing up
+[INFO ] 2023-03-17 08:58:06.535 [main] ProspectsViewRecordsClass - Prospect is clicked
+[INFO ] 2023-03-17 08:58:09.635 [main] ProspectsViewRecordsClass - View record is clicked
+[INFO ] 2023-03-17 08:58:09.906 [main] ProspectsViewRecordsClass - Page title is Prospects
+[INFO ] 2023-03-17 08:58:09.906 [main] ProspectsViewRecordsClass - Page Title is validated
+[INFO ] 2023-03-17 08:58:20.077 [main] ProspectsViewRecordsClass - Add filter link is clicked
+[INFO ] 2023-03-17 08:58:20.147 [main] ProspectsViewRecordsClass - pop up title is 
+[INFO ] 2023-05-22 04:55:00.186 [main] LoginClass - Page title is Verify IDP
+[INFO ] 2023-05-22 04:55:00.192 [main] LoginClass - Page Title is validated
+[INFO ] 2023-05-22 04:55:00.364 [main] LoginClass - username is entered
+[INFO ] 2023-05-22 04:55:00.465 [main] LoginClass - password is entered
+[INFO ] 2023-05-22 04:55:01.642 [main] LoginClass - Sign In button is clicked
+[INFO ] 2023-05-22 04:55:11.671 [main] LoginClass - Page title is Verify IDP
+[INFO ] 2023-05-22 04:55:11.672 [main] LoginClass - Page Title is validated
+[INFO ] 2023-05-22 04:55:11.832 [main] LoginClass - username is entered
+[INFO ] 2023-05-22 04:55:11.901 [main] LoginClass - password is entered
+[INFO ] 2023-05-22 04:55:12.536 [main] LoginClass - Sign In button is clicked
+[INFO ] 2023-05-22 04:55:22.559 [main] DashboardClass - Page title is Verify IDP
+[INFO ] 2023-05-22 04:59:24.213 [main] LoginClass - Page title is Verify IDP
+[INFO ] 2023-05-22 04:59:24.219 [main] LoginClass - Page Title is validated
+[INFO ] 2023-05-22 04:59:24.406 [main] LoginClass - username is entered
+[INFO ] 2023-05-22 04:59:24.477 [main] LoginClass - password is entered
+[INFO ] 2023-05-22 04:59:25.678 [main] LoginClass - Sign In button is clicked
+[INFO ] 2023-05-22 04:59:35.718 [main] LoginClass - Page title is Verify IDP
+[INFO ] 2023-05-22 04:59:35.718 [main] LoginClass - Page Title is validated
+[INFO ] 2023-05-22 04:59:35.874 [main] LoginClass - username is entered
+[INFO ] 2023-05-22 04:59:35.958 [main] LoginClass - password is entered
+[INFO ] 2023-05-22 04:59:40.905 [main] LoginClass - Sign In button is clicked
+[INFO ] 2023-05-22 04:59:51.391 [main] DashboardClass - Page title is Welcome to Oklahama wesleyan university
+[INFO ] 2023-05-22 04:59:51.392 [main] DashboardClass - Page Title is validated
+[INFO ] 2023-05-22 04:59:51.651 [main] DashboardClass - Hamburger icon is clicked
+[INFO ] 2023-05-22 04:59:57.940 [main] DashboardClass - Widget Delete icon is clicked
+[INFO ] 2023-05-22 04:59:58.063 [main] DashboardClass - Delete Confirmation pop up is showing up
+[INFO ] 2023-05-22 05:00:01.296 [main] DashboardClass - Delete button is clicked
+[INFO ] 2023-05-22 05:00:06.835 [main] PeopleSearchClass - Page title is People Search
+[INFO ] 2023-05-22 05:00:06.835 [main] PeopleSearchClass - Page Title is validated
+[INFO ] 2023-05-22 05:00:15.364 [main] PeopleSearchClass - Showing result is showing up
+[INFO ] 2023-05-22 05:00:22.921 [main] ProspectsViewRecordsClass - Prospect is clicked
+[INFO ] 2023-05-22 05:00:26.159 [main] ProspectsViewRecordsClass - View record is clicked
+[INFO ] 2023-05-22 05:00:26.304 [main] ProspectsViewRecordsClass - Page title is Prospects
+[INFO ] 2023-05-22 05:00:26.305 [main] ProspectsViewRecordsClass - Page Title is validated
+[INFO ] 2023-05-22 05:00:36.442 [main] ProspectsViewRecordsClass - Add filter link is clicked
+[INFO ] 2023-05-22 05:00:36.514 [main] ProspectsViewRecordsClass - pop up title is 
+[INFO ] 2023-05-22 05:47:48.034 [main] LoginClass - Page title is Verify IDP
+[INFO ] 2023-05-22 05:47:48.039 [main] LoginClass - Page Title is validated
+[INFO ] 2023-05-22 05:47:48.215 [main] LoginClass - username is entered
+[INFO ] 2023-05-22 05:47:48.387 [main] LoginClass - password is entered
+[INFO ] 2023-05-22 05:47:49.506 [main] LoginClass - Sign In button is clicked
+[INFO ] 2023-05-22 05:47:59.538 [main] LoginClass - Page title is Verify IDP
+[INFO ] 2023-05-22 05:47:59.539 [main] LoginClass - Page Title is validated
+[INFO ] 2023-05-22 05:47:59.705 [main] LoginClass - username is entered
+[INFO ] 2023-05-22 05:47:59.801 [main] LoginClass - password is entered
+[INFO ] 2023-05-22 05:48:20.576 [main] LoginClass - Sign In button is clicked
+[INFO ] 2023-05-22 05:48:30.619 [main] DashboardClass - Page title is Welcome to Oklahama wesleyan university
+[INFO ] 2023-05-22 05:48:30.619 [main] DashboardClass - Page Title is validated
+[INFO ] 2023-05-22 05:48:30.775 [main] DashboardClass - Hamburger icon is clicked
+[INFO ] 2023-05-22 05:54:42.340 [main] DashboardClass - Widget Delete icon is clicked
+[INFO ] 2023-05-22 05:55:12.314 [main] DashboardClass - Delete Confirmation pop up is showing up
+[INFO ] 2023-05-22 05:55:29.891 [main] DashboardClass - Delete button is clicked
+[INFO ] 2023-05-22 05:58:58.671 [main] PeopleSearchClass - Page title is People Search
+[INFO ] 2023-05-22 05:58:58.671 [main] PeopleSearchClass - Page Title is validated
+[INFO ] 2023-05-22 05:59:07.108 [main] PeopleSearchClass - Showing result is showing up
+[INFO ] 2023-05-22 05:59:14.435 [main] ProspectsViewRecordsClass - Prospect is clicked
+[INFO ] 2023-05-22 05:59:17.556 [main] ProspectsViewRecordsClass - View record is clicked
+[INFO ] 2023-05-22 05:59:17.583 [main] ProspectsViewRecordsClass - Page title is Prospects
+[INFO ] 2023-05-22 05:59:17.584 [main] ProspectsViewRecordsClass - Page Title is validated
+[INFO ] 2023-05-22 05:59:27.677 [main] ProspectsViewRecordsClass - Add filter link is clicked
+[INFO ] 2023-05-22 05:59:27.711 [main] ProspectsViewRecordsClass - pop up title is 
+[INFO ] 2023-05-22 08:12:27.582 [main] LoginClass - Page title is Verify IDP
+[INFO ] 2023-05-22 08:12:27.586 [main] LoginClass - Page Title is validated
+[INFO ] 2023-05-22 08:12:27.774 [main] LoginClass - username is entered
+[INFO ] 2023-05-22 08:12:27.899 [main] LoginClass - password is entered
+[INFO ] 2023-05-22 08:12:28.450 [main] LoginClass - Sign In button is clicked
+[INFO ] 2023-05-22 08:12:38.509 [main] LoginClass - Page title is Verify IDP
+[INFO ] 2023-05-22 08:12:38.509 [main] LoginClass - Page Title is validated
+[INFO ] 2023-05-22 08:12:38.621 [main] LoginClass - username is entered
+[INFO ] 2023-05-22 08:12:38.743 [main] LoginClass - password is entered
+[INFO ] 2023-05-22 08:12:44.962 [main] LoginClass - Sign In button is clicked
+[INFO ] 2023-05-22 08:12:54.988 [main] DashboardClass - Page title is Welcome to Oklahama wesleyan university
+[INFO ] 2023-05-22 08:12:54.988 [main] DashboardClass - Page Title is validated
+[INFO ] 2023-05-22 08:12:55.115 [main] DashboardClass - Hamburger icon is clicked
+[INFO ] 2023-05-22 08:12:58.264 [main] DashboardClass - Widget Delete icon is clicked
+[INFO ] 2023-05-22 08:13:01.369 [main] DashboardClass - Delete Confirmation pop up is showing up
+[INFO ] 2023-05-22 08:13:01.513 [main] DashboardClass - Delete button is clicked
+[INFO ] 2023-05-22 08:13:04.665 [main] DashboardClass - Widget Delete icon is clicked
+[INFO ] 2023-05-22 08:13:07.764 [main] DashboardClass - Delete Confirmation pop up is showing up
+[INFO ] 2023-05-22 08:13:07.883 [main] DashboardClass - Delete button is clicked
+[INFO ] 2023-05-22 08:13:11.017 [main] DashboardClass - Widget Delete icon is clicked
+[INFO ] 2023-05-22 08:13:14.062 [main] DashboardClass - Delete Confirmation pop up is showing up
+[INFO ] 2023-05-22 08:13:14.207 [main] DashboardClass - Delete button is clicked
+[INFO ] 2023-05-22 08:13:22.507 [main] PeopleSearchClass - Page title is People Search
+[INFO ] 2023-05-22 08:13:22.507 [main] PeopleSearchClass - Page Title is validated
+[INFO ] 2023-05-22 08:13:30.873 [main] PeopleSearchClass - Showing result is showing up
+[INFO ] 2023-05-22 08:13:38.210 [main] ProspectsViewRecordsClass - Prospect is clicked
+[INFO ] 2023-05-22 08:13:41.369 [main] ProspectsViewRecordsClass - View record is clicked
+[INFO ] 2023-05-22 08:13:41.417 [main] ProspectsViewRecordsClass - Page title is Prospects
+[INFO ] 2023-05-22 08:13:41.417 [main] ProspectsViewRecordsClass - Page Title is validated
+[INFO ] 2023-05-22 08:13:51.498 [main] ProspectsViewRecordsClass - Add filter link is clicked
+[INFO ] 2023-05-22 08:13:51.523 [main] ProspectsViewRecordsClass - pop up title is 
+[INFO ] 2023-05-22 08:16:44.304 [main] LoginClass - Page title is Verify IDP
+[INFO ] 2023-05-22 08:16:44.311 [main] LoginClass - Page Title is validated
+[INFO ] 2023-05-22 08:16:44.570 [main] LoginClass - username is entered
+[INFO ] 2023-05-22 08:16:44.714 [main] LoginClass - password is entered
+[INFO ] 2023-05-22 08:16:45.952 [main] LoginClass - Sign In button is clicked
+[INFO ] 2023-05-22 08:16:55.992 [main] LoginClass - Page title is Verify IDP
+[INFO ] 2023-05-22 08:16:55.993 [main] LoginClass - Page Title is validated
+[INFO ] 2023-05-22 08:16:56.096 [main] LoginClass - username is entered
+[INFO ] 2023-05-22 08:16:56.202 [main] LoginClass - password is entered
+[INFO ] 2023-05-22 08:17:05.742 [main] LoginClass - Sign In button is clicked
+[INFO ] 2023-05-22 08:17:15.773 [main] DashboardClass - Page title is Welcome to Oklahama wesleyan university
+[INFO ] 2023-05-22 08:17:15.773 [main] DashboardClass - Page Title is validated
+[INFO ] 2023-05-22 08:17:15.844 [main] DashboardClass - Hamburger icon is clicked
+[INFO ] 2023-05-22 08:19:07.014 [main] DashboardClass - Widget Delete icon is clicked
+[INFO ] 2023-05-22 08:19:23.018 [main] DashboardClass - Delete Confirmation pop up is showing up
+[INFO ] 2023-05-22 08:19:30.469 [main] DashboardClass - Delete button is clicked
+[INFO ] 2023-05-22 08:20:07.952 [main] DashboardClass - Widget Delete icon is clicked
+[INFO ] 2023-05-22 08:20:24.075 [main] DashboardClass - Delete Confirmation pop up is showing up
+[INFO ] 2023-05-22 08:20:30.245 [main] DashboardClass - Delete button is clicked
+[INFO ] 2023-05-22 08:20:46.055 [main] DashboardClass - Widget Delete icon is clicked
+[INFO ] 2023-05-22 08:20:57.328 [main] DashboardClass - Delete Confirmation pop up is showing up
+[INFO ] 2023-05-22 08:21:03.670 [main] DashboardClass - Delete button is clicked
+[INFO ] 2023-05-22 08:21:17.921 [main] DashboardClass - Widget Delete icon is clicked
+[INFO ] 2023-05-22 08:21:29.299 [main] DashboardClass - Delete Confirmation pop up is showing up
+[INFO ] 2023-05-22 08:21:34.049 [main] DashboardClass - Delete button is clicked
+[INFO ] 2023-05-22 08:21:41.768 [main] DashboardClass - Widget Delete icon is clicked
+[INFO ] 2023-05-22 08:21:58.066 [main] DashboardClass - Delete Confirmation pop up is showing up
+[INFO ] 2023-05-22 08:22:03.411 [main] DashboardClass - Delete button is clicked
+[INFO ] 2023-05-22 08:22:11.486 [main] DashboardClass - Widget Delete icon is clicked
+[INFO ] 2023-05-22 08:22:21.181 [main] DashboardClass - Delete Confirmation pop up is showing up
+[INFO ] 2023-05-22 08:22:25.973 [main] DashboardClass - Delete button is clicked
+[INFO ] 2023-05-22 08:22:34.778 [main] DashboardClass - Widget Delete icon is clicked
+[INFO ] 2023-05-22 08:22:44.169 [main] DashboardClass - Delete Confirmation pop up is showing up
+[INFO ] 2023-05-22 08:22:48.217 [main] DashboardClass - Delete button is clicked
+[INFO ] 2023-05-22 08:22:55.697 [main] DashboardClass - Widget Delete icon is clicked
+[INFO ] 2023-05-22 08:23:05.515 [main] DashboardClass - Delete Confirmation pop up is showing up
+[INFO ] 2023-05-22 08:23:09.724 [main] DashboardClass - Delete button is clicked
+[INFO ] 2023-05-22 08:23:18.918 [main] DashboardClass - Widget Delete icon is clicked
+[INFO ] 2023-05-22 08:23:32.508 [main] DashboardClass - Delete Confirmation pop up is showing up
+[INFO ] 2023-05-22 08:23:38.854 [main] DashboardClass - Delete button is clicked
+[INFO ] 2023-05-22 08:23:49.617 [main] DashboardClass - Widget Delete icon is clicked
+[INFO ] 2023-05-22 08:24:03.154 [main] DashboardClass - Delete Confirmation pop up is showing up
+[INFO ] 2023-05-22 08:24:09.339 [main] DashboardClass - Delete button is clicked
+[INFO ] 2023-05-22 08:24:17.458 [main] DashboardClass - Widget Delete icon is clicked
+[INFO ] 2023-05-22 08:24:27.164 [main] DashboardClass - Delete Confirmation pop up is showing up
+[INFO ] 2023-05-22 08:24:30.093 [main] DashboardClass - Delete button is clicked
+[INFO ] 2023-05-22 08:24:39.739 [main] DashboardClass - Widget Delete icon is clicked
+[INFO ] 2023-05-22 08:24:50.920 [main] DashboardClass - Delete Confirmation pop up is showing up
+[INFO ] 2023-05-22 08:24:55.307 [main] DashboardClass - Delete button is clicked
+[INFO ] 2023-05-22 08:25:02.819 [main] DashboardClass - Widget Delete icon is clicked
+[INFO ] 2023-05-22 08:25:12.363 [main] DashboardClass - Delete Confirmation pop up is showing up
+[INFO ] 2023-05-22 08:25:18.240 [main] DashboardClass - Delete button is clicked
+[INFO ] 2023-05-22 08:27:09.767 [main] PeopleSearchClass - Page title is People Search
+[INFO ] 2023-05-22 08:27:09.768 [main] PeopleSearchClass - Page Title is validated
+[INFO ] 2023-05-22 08:27:18.161 [main] PeopleSearchClass - Showing result is showing up
+[INFO ] 2023-05-22 08:27:25.662 [main] ProspectsViewRecordsClass - Prospect is clicked
+[INFO ] 2023-05-22 08:27:28.810 [main] ProspectsViewRecordsClass - View record is clicked
+[INFO ] 2023-05-22 08:27:28.888 [main] ProspectsViewRecordsClass - Page title is Prospects
+[INFO ] 2023-05-22 08:27:28.889 [main] ProspectsViewRecordsClass - Page Title is validated
+[INFO ] 2023-05-22 08:27:38.969 [main] ProspectsViewRecordsClass - Add filter link is clicked
+[INFO ] 2023-05-22 08:27:39.015 [main] ProspectsViewRecordsClass - pop up title is 
+[INFO ] 2023-05-22 09:23:20.132 [main] LoginClass - Page title is Verify IDP
+[INFO ] 2023-05-22 09:23:20.138 [main] LoginClass - Page Title is validated
+[INFO ] 2023-05-22 09:23:20.320 [main] LoginClass - username is entered
+[INFO ] 2023-05-22 09:23:20.456 [main] LoginClass - password is entered
+[INFO ] 2023-05-22 09:23:21.586 [main] LoginClass - Sign In button is clicked
+[INFO ] 2023-05-22 09:23:31.628 [main] LoginClass - Page title is Verify IDP
+[INFO ] 2023-05-22 09:23:31.628 [main] LoginClass - Page Title is validated
+[INFO ] 2023-05-22 09:23:31.780 [main] LoginClass - username is entered
+[INFO ] 2023-05-22 09:23:31.890 [main] LoginClass - password is entered
+[INFO ] 2023-05-22 09:23:37.693 [main] LoginClass - Sign In button is clicked
+[INFO ] 2023-05-22 09:23:47.733 [main] DashboardClass - Page title is Welcome to Oklahama wesleyan university
+[INFO ] 2023-05-22 09:23:47.734 [main] DashboardClass - Page Title is validated
+[INFO ] 2023-05-22 09:23:47.856 [main] DashboardClass - Hamburger icon is clicked
+[INFO ] 2023-05-22 09:24:21.058 [main] DashboardClass - Add widget is clicked
+[INFO ] 2023-05-22 09:41:26.659 [main] LoginClass - Page title is Verify IDP
+[INFO ] 2023-05-22 09:41:26.663 [main] LoginClass - Page Title is validated
+[INFO ] 2023-05-22 09:41:26.880 [main] LoginClass - username is entered
+[INFO ] 2023-05-22 09:41:27.012 [main] LoginClass - password is entered
+[INFO ] 2023-05-22 09:41:27.616 [main] LoginClass - Sign In button is clicked
+[INFO ] 2023-05-22 09:41:37.652 [main] LoginClass - Page title is Verify IDP
+[INFO ] 2023-05-22 09:41:37.652 [main] LoginClass - Page Title is validated
+[INFO ] 2023-05-22 09:41:37.856 [main] LoginClass - username is entered
+[INFO ] 2023-05-22 09:41:37.946 [main] LoginClass - password is entered
+[INFO ] 2023-05-22 09:41:43.823 [main] LoginClass - Sign In button is clicked
+[INFO ] 2023-05-22 09:41:53.873 [main] DashboardClass - Page title is Welcome to Oklahama wesleyan university
+[INFO ] 2023-05-22 09:41:53.873 [main] DashboardClass - Page Title is validated
+[INFO ] 2023-05-22 09:41:54.033 [main] DashboardClass - Hamburger icon is clicked
+[INFO ] 2023-05-22 09:42:14.865 [main] DashboardClass - Widget Delete icon is clicked
+[INFO ] 2023-05-22 09:42:17.951 [main] DashboardClass - Delete Confirmation pop up is showing up
+[INFO ] 2023-05-22 09:42:18.068 [main] DashboardClass - Delete button is clicked
+[INFO ] 2023-05-22 09:42:21.141 [main] DashboardClass - Widget Delete icon is clicked
+[INFO ] 2023-05-22 09:42:24.250 [main] DashboardClass - Delete Confirmation pop up is showing up
+[INFO ] 2023-05-22 09:42:24.382 [main] DashboardClass - Delete button is clicked
+[INFO ] 2023-05-22 09:43:27.147 [main] LoginClass - Page title is Verify IDP
+[INFO ] 2023-05-22 09:43:27.153 [main] LoginClass - Page Title is validated
+[INFO ] 2023-05-22 09:43:27.336 [main] LoginClass - username is entered
+[INFO ] 2023-05-22 09:43:27.476 [main] LoginClass - password is entered
+[INFO ] 2023-05-22 09:43:28.612 [main] LoginClass - Sign In button is clicked
+[INFO ] 2023-05-22 09:43:38.694 [main] LoginClass - Page title is Verify IDP
+[INFO ] 2023-05-22 09:43:38.694 [main] LoginClass - Page Title is validated
+[INFO ] 2023-05-22 09:43:38.779 [main] LoginClass - username is entered
+[INFO ] 2023-05-22 09:43:38.849 [main] LoginClass - password is entered
+[INFO ] 2023-05-22 09:43:46.065 [main] LoginClass - Sign In button is clicked
+[INFO ] 2023-05-22 09:43:56.130 [main] DashboardClass - Page title is Welcome to Oklahama wesleyan university
+[INFO ] 2023-05-22 09:43:56.131 [main] DashboardClass - Page Title is validated
+[INFO ] 2023-05-22 09:43:56.269 [main] DashboardClass - Hamburger icon is clicked
+[INFO ] 2023-05-22 09:44:02.467 [main] DashboardClass - Widget Delete icon is clicked
+[INFO ] 2023-05-22 09:44:05.581 [main] DashboardClass - Delete Confirmation pop up is showing up
+[INFO ] 2023-05-22 09:44:05.699 [main] DashboardClass - Delete button is clicked
+[INFO ] 2023-05-22 09:45:30.348 [main] LoginClass - Page title is Verify IDP
+[INFO ] 2023-05-22 09:45:30.353 [main] LoginClass - Page Title is validated
+[INFO ] 2023-05-22 09:45:30.503 [main] LoginClass - username is entered
+[INFO ] 2023-05-22 09:45:30.596 [main] LoginClass - password is entered
+[INFO ] 2023-05-22 09:45:31.674 [main] LoginClass - Sign In button is clicked
+[INFO ] 2023-05-22 09:45:41.716 [main] LoginClass - Page title is Verify IDP
+[INFO ] 2023-05-22 09:45:41.716 [main] LoginClass - Page Title is validated
+[INFO ] 2023-05-22 09:45:41.814 [main] LoginClass - username is entered
+[INFO ] 2023-05-22 09:45:41.909 [main] LoginClass - password is entered
+[INFO ] 2023-05-22 09:45:47.824 [main] LoginClass - Sign In button is clicked
+[INFO ] 2023-05-22 09:45:57.869 [main] DashboardClass - Page title is Welcome to Oklahama wesleyan university
+[INFO ] 2023-05-22 09:45:57.870 [main] DashboardClass - Page Title is validated
+[INFO ] 2023-05-22 09:45:58.019 [main] DashboardClass - Hamburger icon is clicked
+[INFO ] 2023-05-22 09:46:06.181 [main] DashboardClass - Widget Delete icon is clicked
+[INFO ] 2023-05-22 09:46:09.318 [main] DashboardClass - Delete Confirmation pop up is showing up
+[INFO ] 2023-05-22 09:46:09.421 [main] DashboardClass - Delete button is clicked
+[INFO ] 2023-05-22 09:54:28.970 [main] LoginClass - Page title is Verify IDP
+[INFO ] 2023-05-22 09:54:28.976 [main] LoginClass - Page Title is validated
+[INFO ] 2023-05-22 09:54:29.180 [main] LoginClass - username is entered
+[INFO ] 2023-05-22 09:54:29.320 [main] LoginClass - password is entered
+[INFO ] 2023-05-22 09:54:29.925 [main] LoginClass - Sign In button is clicked
+[INFO ] 2023-05-22 09:54:39.988 [main] LoginClass - Page title is Verify IDP
+[INFO ] 2023-05-22 09:54:39.989 [main] LoginClass - Page Title is validated
+[INFO ] 2023-05-22 09:54:40.111 [main] LoginClass - username is entered
+[INFO ] 2023-05-22 09:54:40.219 [main] LoginClass - password is entered
+[INFO ] 2023-05-22 09:54:47.507 [main] LoginClass - Sign In button is clicked
+[INFO ] 2023-05-22 09:54:57.553 [main] DashboardClass - Page title is Welcome to Oklahama wesleyan university
+[INFO ] 2023-05-22 09:54:57.553 [main] DashboardClass - Page Title is validated
+[INFO ] 2023-05-22 09:54:57.659 [main] DashboardClass - Hamburger icon is clicked
+[INFO ] 2023-05-22 09:55:16.955 [main] DashboardClass - Widget Delete icon is clicked
+[INFO ] 2023-05-22 09:55:20.051 [main] DashboardClass - Delete Confirmation pop up is showing up
+[INFO ] 2023-05-22 09:55:20.152 [main] DashboardClass - Delete button is clicked
+[INFO ] 2023-05-22 09:56:59.739 [main] LoginClass - Page title is Verify IDP
+[INFO ] 2023-05-22 09:56:59.742 [main] LoginClass - Page Title is validated
+[INFO ] 2023-05-22 09:56:59.879 [main] LoginClass - username is entered
+[INFO ] 2023-05-22 09:56:59.981 [main] LoginClass - password is entered
+[INFO ] 2023-05-22 09:57:00.628 [main] LoginClass - Sign In button is clicked
+[INFO ] 2023-05-22 09:57:10.703 [main] LoginClass - Page title is Verify IDP
+[INFO ] 2023-05-22 09:57:10.703 [main] LoginClass - Page Title is validated
+[INFO ] 2023-05-22 09:57:10.837 [main] LoginClass - username is entered
+[INFO ] 2023-05-22 09:57:11.008 [main] LoginClass - password is entered
+[INFO ] 2023-05-22 09:57:16.063 [main] LoginClass - Sign In button is clicked
+[INFO ] 2023-05-22 09:57:26.077 [main] DashboardClass - Page title is Welcome to Oklahama wesleyan university
+[INFO ] 2023-05-22 09:57:26.077 [main] DashboardClass - Page Title is validated
+[INFO ] 2023-05-22 09:57:26.176 [main] DashboardClass - Hamburger icon is clicked
+[INFO ] 2023-05-22 09:59:04.045 [main] DashboardClass - Widget Delete icon is clicked
+[INFO ] 2023-05-22 09:59:26.309 [main] DashboardClass - Delete Confirmation pop up is showing up
+[INFO ] 2023-05-22 09:59:28.897 [main] DashboardClass - Delete button is clicked
+[INFO ] 2023-05-22 10:02:41.542 [main] LoginClass - Page title is Verify IDP
+[INFO ] 2023-05-22 10:02:41.551 [main] LoginClass - Page Title is validated
+[INFO ] 2023-05-22 10:02:41.739 [main] LoginClass - username is entered
+[INFO ] 2023-05-22 10:02:41.936 [main] LoginClass - password is entered
+[INFO ] 2023-05-22 10:02:42.758 [main] LoginClass - Sign In button is clicked
+[INFO ] 2023-05-22 10:02:52.835 [main] LoginClass - Page title is Verify IDP
+[INFO ] 2023-05-22 10:02:52.835 [main] LoginClass - Page Title is validated
+[INFO ] 2023-05-22 10:02:53.040 [main] LoginClass - username is entered
+[INFO ] 2023-05-22 10:02:53.209 [main] LoginClass - password is entered
+[INFO ] 2023-05-22 10:03:10.383 [main] LoginClass - Sign In button is clicked
+[INFO ] 2023-05-22 10:03:20.428 [main] DashboardClass - Page title is Welcome to Oklahama wesleyan university
+[INFO ] 2023-05-22 10:03:20.429 [main] DashboardClass - Page Title is validated
+[INFO ] 2023-05-22 10:03:20.745 [main] DashboardClass - Hamburger icon is clicked
+[INFO ] 2023-05-22 10:05:18.957 [main] LoginClass - Page title is Verify IDP
+[INFO ] 2023-05-22 10:05:18.962 [main] LoginClass - Page Title is validated
+[INFO ] 2023-05-22 10:05:19.142 [main] LoginClass - username is entered
+[INFO ] 2023-05-22 10:05:19.231 [main] LoginClass - password is entered
+[INFO ] 2023-05-22 10:05:20.400 [main] LoginClass - Sign In button is clicked
+[INFO ] 2023-05-22 10:05:30.419 [main] LoginClass - Page title is Verify IDP
+[INFO ] 2023-05-22 10:05:30.419 [main] LoginClass - Page Title is validated
+[INFO ] 2023-05-22 10:05:30.502 [main] LoginClass - username is entered
+[INFO ] 2023-05-22 10:05:30.607 [main] LoginClass - password is entered
+[INFO ] 2023-05-22 10:05:44.473 [main] LoginClass - Sign In button is clicked
+[INFO ] 2023-05-22 10:05:54.519 [main] DashboardClass - Page title is Welcome to Oklahama wesleyan university
+[INFO ] 2023-05-22 10:05:54.519 [main] DashboardClass - Page Title is validated
+[INFO ] 2023-05-22 10:05:54.603 [main] DashboardClass - Hamburger icon is clicked
+[INFO ] 2023-05-22 10:06:22.251 [main] DashboardClass - Widget Delete icon is clicked
+[INFO ] 2023-05-22 10:06:35.376 [main] DashboardClass - Delete Confirmation pop up is showing up
+[INFO ] 2023-05-22 10:06:40.591 [main] DashboardClass - Delete button is clicked
+[INFO ] 2023-05-22 10:07:53.006 [main] DashboardClass - Widget Delete icon is clicked
+[INFO ] 2023-05-22 10:08:03.604 [main] DashboardClass - Delete Confirmation pop up is showing up
+[INFO ] 2023-05-22 10:08:08.458 [main] DashboardClass - Delete button is clicked
+[INFO ] 2023-05-22 10:08:55.394 [main] DashboardClass - Widget Delete icon is clicked
+[INFO ] 2023-05-22 10:08:59.004 [main] DashboardClass - Delete Confirmation pop up is showing up
+[INFO ] 2023-05-22 10:08:59.116 [main] DashboardClass - Delete button is clicked
+[INFO ] 2023-05-22 10:09:02.240 [main] DashboardClass - Add widget is clicked
+[INFO ] 2023-05-22 10:09:05.383 [main] DashboardClass - Widget is selected for adding
+[INFO ] 2023-05-22 10:09:08.648 [main] DashboardClass - Widget is added
+[INFO ] 2023-05-22 10:09:08.806 [main] DashboardClass - Expand icon is clicked
+[INFO ] 2023-05-22 10:09:11.808 [main] DashboardClass - Widget is expended
+[INFO ] 2023-05-22 10:09:11.886 [main] DashboardClass - Collapse icon is clicked
+[INFO ] 2023-05-22 10:09:14.895 [main] DashboardClass - Widget is Collapsed
+[INFO ] 2023-05-22 10:11:28.798 [main] LoginClass - Page title is Verify IDP
+[INFO ] 2023-05-22 10:11:28.804 [main] LoginClass - Page Title is validated
+[INFO ] 2023-05-22 10:11:28.965 [main] LoginClass - username is entered
+[INFO ] 2023-05-22 10:11:29.119 [main] LoginClass - password is entered
+[INFO ] 2023-05-22 10:11:30.251 [main] LoginClass - Sign In button is clicked
+[INFO ] 2023-05-22 10:11:40.279 [main] LoginClass - Page title is Verify IDP
+[INFO ] 2023-05-22 10:11:40.279 [main] LoginClass - Page Title is validated
+[INFO ] 2023-05-22 10:11:40.380 [main] LoginClass - username is entered
+[INFO ] 2023-05-22 10:11:40.496 [main] LoginClass - password is entered
+[INFO ] 2023-05-22 10:11:48.293 [main] LoginClass - Sign In button is clicked
+[INFO ] 2023-05-22 10:11:58.452 [main] DashboardClass - Page title is Welcome to Oklahama wesleyan university
+[INFO ] 2023-05-22 10:11:58.452 [main] DashboardClass - Page Title is validated
+[INFO ] 2023-05-22 10:11:58.797 [main] DashboardClass - Hamburger icon is clicked
+[INFO ] 2023-05-22 10:12:11.941 [main] DashboardClass - Widget Delete icon is clicked
+[INFO ] 2023-05-22 10:12:15.034 [main] DashboardClass - Delete Confirmation pop up is showing up
+[INFO ] 2023-05-22 10:12:15.156 [main] DashboardClass - Delete button is clicked
+[INFO ] 2023-05-22 10:17:00.740 [main] LoginClass - Page title is Verify IDP
+[INFO ] 2023-05-22 10:17:00.744 [main] LoginClass - Page Title is validated
+[INFO ] 2023-05-22 10:17:00.852 [main] LoginClass - username is entered
+[INFO ] 2023-05-22 10:17:01.004 [main] LoginClass - password is entered
+[INFO ] 2023-05-22 10:17:02.120 [main] LoginClass - Sign In button is clicked
+[INFO ] 2023-05-22 10:17:12.171 [main] LoginClass - Page title is Verify IDP
+[INFO ] 2023-05-22 10:17:12.171 [main] LoginClass - Page Title is validated
+[INFO ] 2023-05-22 10:17:12.338 [main] LoginClass - username is entered
+[INFO ] 2023-05-22 10:17:12.423 [main] LoginClass - password is entered
+[INFO ] 2023-05-22 10:17:20.030 [main] LoginClass - Sign In button is clicked
+[INFO ] 2023-05-22 10:17:30.136 [main] DashboardClass - Page title is Welcome to Oklahama wesleyan university
+[INFO ] 2023-05-22 10:17:30.136 [main] DashboardClass - Page Title is validated
+[INFO ] 2023-05-22 10:17:30.216 [main] DashboardClass - Hamburger icon is clicked
+[INFO ] 2023-05-22 10:17:43.489 [main] DashboardClass - Widget Delete icon is clicked
+[INFO ] 2023-05-22 10:17:46.586 [main] DashboardClass - Delete Confirmation pop up is showing up
+[INFO ] 2023-05-22 10:17:46.675 [main] DashboardClass - Delete button is clicked
+[INFO ] 2023-05-22 10:18:59.084 [main] LoginClass - Page title is Verify IDP
+[INFO ] 2023-05-22 10:18:59.089 [main] LoginClass - Page Title is validated
+[INFO ] 2023-05-22 10:18:59.262 [main] LoginClass - username is entered
+[INFO ] 2023-05-22 10:18:59.362 [main] LoginClass - password is entered
+[INFO ] 2023-05-22 10:19:00.577 [main] LoginClass - Sign In button is clicked
+[INFO ] 2023-05-22 10:19:10.621 [main] LoginClass - Page title is Verify IDP
+[INFO ] 2023-05-22 10:19:10.622 [main] LoginClass - Page Title is validated
+[INFO ] 2023-05-22 10:19:10.740 [main] LoginClass - username is entered
+[INFO ] 2023-05-22 10:19:10.868 [main] LoginClass - password is entered
+[INFO ] 2023-05-22 10:19:21.278 [main] LoginClass - Sign In button is clicked
+[INFO ] 2023-05-22 10:19:31.308 [main] DashboardClass - Page title is Welcome to Oklahama wesleyan university
+[INFO ] 2023-05-22 10:19:31.308 [main] DashboardClass - Page Title is validated
+[INFO ] 2023-08-16 09:45:48.076 [main] LoginClass - Page title is Verify IDP
+[INFO ] 2023-08-16 09:45:48.080 [main] LoginClass - Page Title is validated
+[INFO ] 2023-08-16 09:45:48.225 [main] LoginClass - username is entered
+[INFO ] 2023-08-16 09:45:48.396 [main] LoginClass - password is entered
+[INFO ] 2023-08-16 09:45:49.568 [main] LoginClass - Sign In button is clicked
+[INFO ] 2023-08-16 09:51:06.469 [main] LoginClass - Page title is Verify IDP
+[INFO ] 2023-08-16 09:51:06.478 [main] LoginClass - Page Title is validated
+[INFO ] 2023-08-16 09:51:06.661 [main] LoginClass - username is entered
+[INFO ] 2023-08-16 09:51:06.837 [main] LoginClass - password is entered
+[INFO ] 2023-08-16 09:51:08.094 [main] LoginClass - Sign In button is clicked
+[INFO ] 2023-08-16 09:51:18.139 [main] LoginClass - Page title is Verify IDP
+[INFO ] 2023-08-16 09:51:18.139 [main] LoginClass - Page Title is validated
+[INFO ] 2023-08-16 09:51:18.309 [main] LoginClass - username is entered
+[INFO ] 2023-08-16 09:51:18.435 [main] LoginClass - password is entered
+[INFO ] 2023-08-16 09:51:25.575 [main] LoginClass - Sign In button is clicked
+[INFO ] 2023-08-16 09:51:35.610 [main] DashboardClass - Page title is Welcome to Oklahama wesleyan university
+[INFO ] 2023-08-16 09:51:35.611 [main] DashboardClass - Page Title is validated
+[INFO ] 2023-08-16 09:51:35.720 [main] DashboardClass - Hamburger icon is clicked
+[INFO ] 2023-08-16 09:51:48.931 [main] DashboardClass - Widget Delete icon is clicked
+[INFO ] 2023-08-16 09:51:52.083 [main] DashboardClass - Delete Confirmation pop up is showing up
+[INFO ] 2023-08-16 09:51:52.303 [main] DashboardClass - Delete button is clicked

@@ -25,60 +25,19 @@
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+	<classpathentry exported="true" kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
 		<attributes>
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
-	<classpathentry kind="lib" path="C:/Users/philip_parker/eclipse-workspace/apache-log4j-2.14.1-bin/apache-log4j-2.14.1-bin/log4j-api-2.14.1.jar"/>
-	<classpathentry kind="lib" path="C:/Users/philip_parker/eclipse-workspace/apache-log4j-2.14.1-bin/apache-log4j-2.14.1-bin/log4j-core-2.14.1.jar"/>
-	<classpathentry kind="lib" path="C:/Users/philip_parker/eclipse-workspace/jar_files/bson-3.3.0.jar"/>
-	<classpathentry kind="lib" path="C:/Users/philip_parker/eclipse-workspace/jar_files/commons-codec-1.9.jar"/>
-	<classpathentry kind="lib" path="C:/Users/philip_parker/eclipse-workspace/jar_files/commons-logging-1.2.jar"/>
-	<classpathentry kind="lib" path="C:/Users/philip_parker/eclipse-workspace/jar_files/freemarker-2.3.23.jar"/>
-	<classpathentry kind="lib" path="C:/Users/philip_parker/eclipse-workspace/jar_files/gson-2.8.0.jar"/>
-	<classpathentry kind="lib" path="C:/Users/philip_parker/eclipse-workspace/jar_files/httpclient-4.5.2.jar"/>
-	<classpathentry kind="lib" path="C:/Users/philip_parker/eclipse-workspace/jar_files/httpcore-4.4.4.jar"/>
-	<classpathentry kind="lib" path="C:/Users/philip_parker/eclipse-workspace/jar_files/httpmime-4.5.2.jar"/>
-	<classpathentry kind="lib" path="C:/Users/philip_parker/eclipse-workspace/jar_files/jsoup-1.9.2.jar"/>
-	<classpathentry kind="lib" path="C:/Users/philip_parker/eclipse-workspace/jar_files/mongodb-driver-3.3.0.jar"/>
-	<classpathentry kind="lib" path="C:/Users/philip_parker/eclipse-workspace/jar_files/mongodb-driver-core-3.3.0.jar"/>
-	<classpathentry kind="lib" path="C:/Users/philip_parker/eclipse-workspace/poi-5.0.0/poi-5.0.0.jar"/>
-	<classpathentry kind="lib" path="C:/Users/philip_parker/eclipse-workspace/poi-5.0.0/poi-examples-5.0.0.jar"/>
-	<classpathentry kind="lib" path="C:/Users/philip_parker/eclipse-workspace/poi-5.0.0/poi-excelant-5.0.0.jar"/>
-	<classpathentry kind="lib" path="C:/Users/philip_parker/eclipse-workspace/poi-5.0.0/poi-integration-5.0.0.jar"/>
-	<classpathentry kind="lib" path="C:/Users/philip_parker/eclipse-workspace/poi-5.0.0/poi-ooxml-5.0.0.jar"/>
-	<classpathentry kind="lib" path="C:/Users/philip_parker/eclipse-workspace/poi-5.0.0/poi-ooxml-full-5.0.0.jar"/>
-	<classpathentry kind="lib" path="C:/Users/philip_parker/eclipse-workspace/poi-5.0.0/poi-ooxml-lite-5.0.0.jar"/>
-	<classpathentry kind="lib" path="C:/Users/philip_parker/eclipse-workspace/poi-5.0.0/poi-scratchpad-5.0.0.jar"/>
-	<classpathentry kind="lib" path="C:/Users/philip_parker/eclipse-workspace/poi-5.0.0/ooxml-lib/commons-compress-1.20.jar"/>
-	<classpathentry kind="lib" path="C:/Users/philip_parker/eclipse-workspace/poi-5.0.0/ooxml-lib/curvesapi-1.06.jar"/>
-	<classpathentry kind="lib" path="C:/Users/philip_parker/eclipse-workspace/poi-5.0.0/ooxml-lib/xmlbeans-4.0.0.jar"/>
-	<classpathentry kind="lib" path="C:/Users/philip_parker/eclipse-workspace/poi-5.0.0/lib/commons-codec-1.15.jar"/>
-	<classpathentry kind="lib" path="C:/Users/philip_parker/eclipse-workspace/poi-5.0.0/lib/commons-collections4-4.4.jar"/>
-	<classpathentry kind="lib" path="C:/Users/philip_parker/eclipse-workspace/poi-5.0.0/lib/commons-math3-3.6.1.jar"/>
-	<classpathentry kind="lib" path="C:/Users/philip_parker/eclipse-workspace/poi-5.0.0/lib/SparseBitSet-1.2.jar"/>
-	<classpathentry kind="lib" path="C:/Users/philip_parker/eclipse-workspace/poi-5.0.0/auxiliary/batik-all-1.13.jar"/>
-	<classpathentry kind="lib" path="C:/Users/philip_parker/eclipse-workspace/poi-5.0.0/auxiliary/bcpkix-jdk15on-1.68.jar"/>
-	<classpathentry kind="lib" path="C:/Users/philip_parker/eclipse-workspace/poi-5.0.0/auxiliary/bcprov-jdk15on-1.68.jar"/>
-	<classpathentry kind="lib" path="C:/Users/philip_parker/eclipse-workspace/poi-5.0.0/auxiliary/fontbox-2.0.22.jar"/>
-	<classpathentry kind="lib" path="C:/Users/philip_parker/eclipse-workspace/poi-5.0.0/auxiliary/graphics2d-0.30.jar"/>
-	<classpathentry kind="lib" path="C:/Users/philip_parker/eclipse-workspace/poi-5.0.0/auxiliary/pdfbox-2.0.22.jar"/>
-	<classpathentry kind="lib" path="C:/Users/philip_parker/eclipse-workspace/poi-5.0.0/auxiliary/xml-apis-ext-1.3.04.jar"/>
-	<classpathentry kind="lib" path="C:/Users/philip_parker/eclipse-workspace/poi-5.0.0/auxiliary/xmlgraphics-commons-2.4.jar"/>
-	<classpathentry kind="lib" path="C:/Users/philip_parker/eclipse-workspace/poi-5.0.0/auxiliary/xmlsec-2.2.1.jar"/>
+	<classpathentry exported="true" kind="con" path="org.testng.TESTNG_CONTAINER"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
 		<attributes>
+			<attribute name="module" value="true"/>
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="C:/Users/philip_parker/eclipse-workspace/extentReportjar_files/bson-3.0.4.jar"/>
-	<classpathentry kind="lib" path="C:/Users/philip_parker/eclipse-workspace/extentReportjar_files/extentreports-2.41.2.jar"/>
-	<classpathentry kind="lib" path="C:/Users/philip_parker/eclipse-workspace/extentReportjar_files/freemarker-2.3.23.jar"/>
-	<classpathentry kind="lib" path="C:/Users/philip_parker/eclipse-workspace/extentReportjar_files/jsoup-1.8.3.jar"/>
-	<classpathentry kind="lib" path="C:/Users/philip_parker/eclipse-workspace/extentReportjar_files/mongodb-driver-3.0.4.jar"/>
-	<classpathentry kind="lib" path="C:/Users/philip_parker/eclipse-workspace/extentReportjar_files/mongodb-driver-core-3.0.4.jar"/>
-	<classpathentry kind="lib" path="C:/Users/philip_parker/eclipse-workspace/extentReportjar_files/sqlite-jdbc-3.8.11.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/philip_parker/Documents/GitHub/apache-log4j-2.17.2-bin/apache-log4j-2.17.2-bin/log4j-api-2.17.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/philip_parker/Documents/GitHub/apache-log4j-2.17.2-bin/apache-log4j-2.17.2-bin/log4j-core-2.17.2.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>

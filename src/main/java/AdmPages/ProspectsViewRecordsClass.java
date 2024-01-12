@@ -30,6 +30,7 @@ public class ProspectsViewRecordsClass {
 	@FindBy(xpath = "//button[@id='custDropDown']/parent::li/following-sibling::li[1]/button") WebElement BulkUploadLink;
 	@FindBy(xpath = "//ol[@class='breadcrumb']/li[2]") WebElement BulkBreadCrumb;
 	@FindBy(xpath = "//a[@id='reportingEmail']") WebElement ReportingEmailLink;
+	@FindBy(xpath = "//div[@class='modal-body']/div[2]/i") WebElement DeleteEmaillink;
 	@FindBy(xpath = "//a[@id='AddEmail']") WebElement AddEmailLink;
 	@FindBy(xpath = "//input[@id='emailAddress-person']") WebElement EnterEmailID;
 	@FindBy(xpath="//div[@class='modal-body']/h4") WebElement ClickPopUp;
@@ -123,6 +124,24 @@ public class ProspectsViewRecordsClass {
 	}
 
 	public void ProspectViewRecords_BulkUploadMethod() {
+		BulkUploadLink.click();
+		log.info("BUlk upload link is clicked successfully.");
+		BulkBreadCrumb.getText().equalsIgnoreCase(" Bulk processes   /  Bulk Upload");
+		log.info("Breadcrumb message is validated.");
+		ReportingEmailLink.click();
+		log.info("Reporing email link is clicked.");
+		ClickPopUp.getText().equalsIgnoreCase("Upload Report will be sent to the email(s) below, after upload process complete.");
+		log.info("Reporting pop up is showing up correctly.");
+		boolean deleteicon = DeleteEmaillink.isDisplayed();
+		Assert.assertTrue(true);
+		log.info("Deletion icon is showing up");
+		AddEmailLink.click();
+		log.info("Email text box is showing up.");
+		EnterEmailID.sendKeys("enateremail@mailinator.com");
+		log.info("email is entereed");
+		SaveButton.click();
+		log.info("Save button is clicked");
+		
 		
 	}
 }

@@ -17,6 +17,7 @@ public class LoginClass {
 	@FindBy(xpath = "//input[@id='password']")	WebElement passwordObj;
 	@FindBy(xpath = "//button[@id='submitButton']")	WebElement signInbuttonObj;
 	@FindBy(xpath = "//*[@id='Path_15167']") WebElement welcomemessage;
+	
 
 	public LoginClass(WebDriver driver) {
 		PageFactory.initElements(driver, this);
@@ -39,7 +40,7 @@ public class LoginClass {
         welcomemessage.click();
         signInbuttonObj.click();
         log.info("Sign In button is clicked");
-        Thread.sleep(5000);
+        Thread.sleep(10000);
         return new DashboardClass(driver);
     }
 

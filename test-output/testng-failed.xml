@@ -5,8 +5,8 @@
     <classes>
       <class name="AdministrationTC.Admin_Flow">
         <methods>
+          <include name="mdashboard_page_method"/>
           <include name="browserload"/>
-          <include name="ProspectViewRecords_page_method"/>
           <include name="closebrowser"/>
         </methods>
       </class> <!-- AdministrationTC.Admin_Flow -->

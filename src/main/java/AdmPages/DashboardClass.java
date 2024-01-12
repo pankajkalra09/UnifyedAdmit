@@ -37,6 +37,8 @@ public class DashboardClass {
 	WebElement AddingWidget;
 	@FindBy(xpath = "//input[@value='Done']")
 	WebElement Done_AddWidget;
+	@FindBy(xpath = "//div[@id='addToggleMode']")
+	WebElement Hamburger;
 
 	public DashboardClass(WebDriver driver) {
 		PageFactory.initElements(driver, this);
@@ -52,22 +54,48 @@ public class DashboardClass {
 
 	public PeopleSearchClass wighettest() throws Exception {
 
+		Hamburger.click();
+		log.info("Hamburger icon is clicked");
+		Thread.sleep(3000);
 		List<WebElement> widget = driver.findElements(By.xpath("//div[@id='main']/ul/li//button/i"));
 		Iterator<WebElement> crunchifyIterator = widget.iterator();
-		
-		  for(WebElement element : widget) { 
-			  element.click();
-			  Thread.sleep(3000);
-		  log.info("Widget Delete icon is clicked"); 
-		  Assert.assertTrue(DeletePopUpConfirm.isDisplayed());
-		  log.info("Delete Confirmation pop up is showing up"); 
-		  DeleteButton.click();
-		  Thread.sleep(3000);
-		  log.info("Delete button is clicked"); 
-		  }
+		WebElement elements;
+		while (crunchifyIterator.hasNext()) 
+		{ 
+			elements= crunchifyIterator.next(); 
+			System.out.println(elements); 
+			Thread.sleep(10000);
+			if(elements.isEnabled())
+			{
+				System.out.println("button is enabled");
+				elements.click();
+			}
+			
+		 log.info("Widget Delete icon is clicked"); 
+		 Thread.sleep(3000);
+		 Assert.assertTrue(DeletePopUpConfirm.isDisplayed());
+		 log.info("Delete Confirmation pop up is showing up"); 
+		 DeleteButton.click();
+		 log.info("Delete button is clicked"); 
+		 Thread.sleep(3000); 
+		 }
 		  
-		toggle.click();
 		
+		/*
+		 * for(WebElement element : widget) { 
+		 * element.click(); 
+		 * Thread.sleep(3000);
+		 * log.info("Widget Delete icon is clicked");
+		 * Assert.assertTrue(DeletePopUpConfirm.isDisplayed());
+		 * log.info("Delete Confirmation pop up is showing up"); 
+		 * DeleteButton.click();
+		 * Thread.sleep(3000); 
+		 * log.info("Delete button is clicked"); 
+		 * }
+		 */
+
+		//toggle.click();
+
 		AddWidget.click();
 		log.info("Add widget is clicked");
 		Thread.sleep(3000);
@@ -86,8 +114,6 @@ public class DashboardClass {
 		Thread.sleep(3000);
 		log.info("Widget is Collapsed");
 
-		
-		 
 		/*
 		 * while (crunchifyIterator.hasNext()) { WebElement element =
 		 * crunchifyIterator.next(); System.out.println(element); element.click();

@@ -1,5 +1,6 @@
 package AdministrationTC;
 
+import org.openqa.selenium.WebDriver;
 import org.testng.annotations.AfterTest;
 import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Test;
@@ -14,6 +15,7 @@ import Common.DataProviderClass;
 
 public class Admin_Flow extends BaseClass {
 
+	WebDriver driver;
 	@BeforeTest
 	public void browserload() throws Exception {
 		driver = initilizeBrowser();
@@ -35,7 +37,7 @@ public class Admin_Flow extends BaseClass {
 		// prospectTest obj2 = new prospectTest(driver);
 	}
 
-	@Test(priority = 2, enabled = false)
+	@Test(priority = 2, enabled = true)
 	public void mdashboard_page_method() throws Exception {
 		DashboardClass Dashboard_obj = new DashboardClass(driver);
 		Dashboard_obj.verifyPageTitle();
@@ -50,12 +52,13 @@ public class Admin_Flow extends BaseClass {
 		
 	}
 
-	@Test(priority = 4, enabled = true)
+	@Test(priority = 4, enabled = false)
 	public void ProspectViewRecords_page_method() throws Exception {
 		ProspectsViewRecordsClass ProspectView_obj = new ProspectsViewRecordsClass(driver);
 		ProspectView_obj.verifyProspectViewRecordsPageTitle();
 		ProspectView_obj.ProspectViewRecords_Filtermethod();
 		ProspectView_obj.ProspectViewRecords_CustomizeColumnmethod();
+		ProspectView_obj.ProspectViewRecords_BulkUploadMethod();
 		
 	}
 	

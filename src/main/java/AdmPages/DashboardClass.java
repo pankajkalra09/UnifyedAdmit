@@ -45,7 +45,7 @@ public class DashboardClass {
 		this.driver = driver;
 	}
 
-	//philip
+	//parker
 	public void verifyPageTitle() {
 		String pageTitle = driver.getTitle();
 		log.info("Page title is " + pageTitle);

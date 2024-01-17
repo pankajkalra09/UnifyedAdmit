@@ -17,6 +17,7 @@ public class LoginClass {
 	@FindBy(xpath = "//input[@id='password']")	WebElement passwordObj;
 	@FindBy(xpath = "//button[@id='submitButton']")	WebElement signInbuttonObj;
 	@FindBy(xpath = "//*[@id='Path_15167']") WebElement welcomemessage;
+	//@FindBy(xpath = "//*[@id='Path_15167']") WebElement welcomemessage;
 	
 
 	public LoginClass(WebDriver driver) {
